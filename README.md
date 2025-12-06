@@ -78,3 +78,34 @@ Built in PySpark for scalability and reproducibility:
 - State-level payment variance heatmap
 
 - Provider-type performance dashboards
+
+# Key Insights
+Certain DRGs consistently show higher variance between expected and actual payments.
+
+States like Hawaii and Nebraska display elevated payment rates even for lower-complexity DRGs, indicating geographic cost adjustment factors.
+
+Denials cluster around specific MDCs with longer LOS or higher reimbursement weights.
+
+# Tech Stack
+
+| Layer             | Tools / Technologies                                                  |
+| ----------------- | --------------------------------------------------------------------- |
+| **Language**      | Python 3.10                                                           |
+| **Frameworks**    | PySpark, pandas, NumPy, Matplotlib, Seaborn                           |
+| **ML**            | pyspark.ml (VectorAssembler, RandomForestRegressor, LinearRegression) |
+| **Data Source**   | CMS Medicare (Inpatient/Outpatient/Carrier), DRG Final Rule Tables    |
+| **Environment**   | Google Colab / Databricks                                             |
+| **Visualization** | Matplotlib, Seaborn, Tableau (external dashboards)                    |
+
+# Evaluation Metrics
+
+| Metric   | Description                  | Example Result |
+| -------- | ---------------------------- | -------------- |
+| **RMSE** | Root Mean Squared Error      | 7609.76        |
+| **MAE**  | Mean Absolute Error          | 4266.75        |
+| **R²**   | Coefficient of Determination | 0.49           |
+
+# Author
+Ashish Kushwaha
+Master’s in Applied Data Science — Syracuse University
+Specialization: Healthcare Data Analytics & RCM Intelligence
