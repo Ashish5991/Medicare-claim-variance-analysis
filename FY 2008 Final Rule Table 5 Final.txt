@@ -1,0 +1,748 @@
+MS-DRG	FY08 Final Rule Post-Acute DRG	FY08 Final Rule Special Pay DRG	MDC	TYPE	MS-DRG Title	Weights 	Geometric Mean LOS	Arithmetic Mean LOS
+001	No	No	PRE	SURG	Heart transplant or implant of heart assist system w MCC	23.1117	30.8	45.6
+002	No	No	PRE	SURG	Heart transplant or implant of heart assist system w/o MCC	16.2735	16.1	22.8
+003	Yes	No	PRE	SURG	"ECMO or trach w MV 96+ hrs or PDX exc face, mouth & neck w maj O.R."	18.7707	33.4	40.6
+004	Yes	No	PRE	SURG	"Trach w MV 96+ hrs or PDX exc face, mouth & neck w/o maj O.R."	11.4219	23.8	29.3
+005	No	No	PRE	SURG	Liver transplant w MCC or intestinal transplant	10.6120	17.6	23.5
+006	No	No	PRE	SURG	Liver transplant w/o MCC	7.2562	9.1	10.5
+007	No	No	PRE	SURG	Lung transplant	8.4002	14.6	17.3
+008	No	No	PRE	SURG	Simultaneous pancreas/kidney transplant	5.1726	10.1	11.8
+009	No	No	PRE	SURG	Bone marrow transplant	6.4842	18.1	21.7
+010	No	No	PRE	SURG	Pancreas transplant	3.8902	9.2	10.5
+011	No	No	PRE	SURG	"Tracheostomy for face,mouth & neck diagnoses w MCC"	4.1482	12.8	16.2
+012	No	No	PRE	SURG	"Tracheostomy for face,mouth & neck diagnoses w CC"	3.2472	8.9	10.9
+013	No	No	PRE	SURG	"Tracheostomy for face,mouth & neck diagnoses w/o CC/MCC"	2.6760	6.1	7.2
+020	No	No	01	SURG	Intracranial vascular procedures w PDX hemorrhage w MCC	7.7073	15.2	19.1
+021	No	No	01	SURG	Intracranial vascular procedures w PDX hemorrhage w CC	6.7021	13.4	15.5
+022	No	No	01	SURG	Intracranial vascular procedures w PDX hemorrhage w/o CC/MCC	5.6085	7.8	9.6
+023	No	No	01	SURG	Cranio w major dev impl/acute complex CNS PDX w MCC or chemo implant	4.7036	9.0	12.8
+024	No	No	01	SURG	Cranio w major dev impl/acute complex CNS PDX w/o MCC	3.8978	6.1	8.9
+025	Yes	No	01	SURG	Craniotomy & endovascular intracranial procedures w MCC	4.2362	10.3	13.3
+026	Yes	No	01	SURG	Craniotomy & endovascular intracranial procedures w CC	3.1582	6.5	8.2
+027	Yes	No	01	SURG	Craniotomy & endovascular intracranial procedures w/o CC/MCC	2.3259	3.5	4.6
+028	Yes	Yes	01	SURG	Spinal procedures w MCC	4.2339	10.8	14.7
+029	Yes	Yes	01	SURG	Spinal procedures w CC or spinal neurostimulators	2.8356	5.3	7.3
+030	Yes	Yes	01	SURG	Spinal procedures w/o CC/MCC	1.7617	2.8	3.7
+031	Yes	No	01	SURG	Ventricular shunt procedures w MCC	3.2226	9.2	13.2
+032	Yes	No	01	SURG	Ventricular shunt procedures w CC	1.9342	3.8	5.8
+033	Yes	No	01	SURG	Ventricular shunt procedures w/o CC/MCC	1.4281	2.3	3.1
+034	No	No	01	SURG	Carotid artery stent procedure w MCC	2.5438	4.8	7.3
+035	No	No	01	SURG	Carotid artery stent procedure w CC	1.8996	2.0	2.9
+036	No	No	01	SURG	Carotid artery stent procedure w/o CC/MCC	1.6977	1.3	1.6
+037	No	No	01	SURG	Extracranial procedures w MCC	2.2630	6.0	8.7
+038	No	No	01	SURG	Extracranial procedures w CC	1.4686	2.5	3.7
+039	No	No	01	SURG	Extracranial procedures w/o CC/MCC	1.0909	1.5	1.8
+040	Yes	Yes	01	SURG	Periph/cranial nerve & other nerv syst proc w MCC	3.2550	10.0	13.6
+041	Yes	Yes	01	SURG	Periph/cranial nerve & other nerv syst proc w CC or periph neurostim	2.3595	5.4	7.3
+042	Yes	Yes	01	SURG	Periph/cranial nerve & other nerv syst proc w/o CC/MCC	1.8710	2.5	3.6
+052	No	No	01	MED	Spinal disorders & injuries w CC/MCC	1.4329	4.7	7.0
+053	No	No	01	MED	Spinal disorders & injuries w/o CC/MCC	1.1172	3.1	4.0
+054	Yes	No	01	MED	Nervous system neoplasms w MCC	1.4228	5.3	7.2
+055	Yes	No	01	MED	Nervous system neoplasms w/o MCC	1.1213	3.8	5.0
+056	Yes	No	01	MED	Degenerative nervous system disorders w MCC	1.2820	5.8	7.8
+057	Yes	No	01	MED	Degenerative nervous system disorders w/o MCC	0.8951	3.9	4.9
+058	No	No	01	MED	Multiple sclerosis & cerebellar ataxia w MCC	1.2669	5.8	8.0
+059	No	No	01	MED	Multiple sclerosis & cerebellar ataxia w CC	0.9226	4.3	5.2
+060	No	No	01	MED	Multiple sclerosis & cerebellar ataxia w/o CC/MCC	0.8160	3.4	4.1
+061	No	No	01	MED	Acute ischemic stroke w use of thrombolytic agent w MCC	2.5541	7.3	9.6
+062	No	No	01	MED	Acute ischemic stroke w use of thrombolytic agent w CC	2.0886	5.3	6.3
+063	No	No	01	MED	Acute ischemic stroke w use of thrombolytic agent w/o CC/MCC	1.8642	3.9	4.5
+064	Yes	No	01	MED	Intracranial hemorrhage or cerebral infarction w MCC	1.5470	5.6	7.6
+065	Yes	No	01	MED	Intracranial hemorrhage or cerebral infarction w CC	1.1901	4.3	5.3
+066	Yes	No	01	MED	Intracranial hemorrhage or cerebral infarction w/o CC/MCC	1.0303	3.1	3.8
+067	No	No	01	MED	Nonspecific cva & precerebral occlusion w/o infarct w MCC	1.2194	4.7	6.2
+068	No	No	01	MED	Nonspecific cva & precerebral occlusion w/o infarct w/o MCC	0.9131	2.8	3.6
+069	No	No	01	MED	Transient ischemia	0.7339	2.5	3.1
+070	Yes	No	01	MED	Nonspecific cerebrovascular disorders w MCC	1.6212	6.0	7.9
+071	Yes	No	01	MED	Nonspecific cerebrovascular disorders w CC	1.2522	4.5	5.6
+072	Yes	No	01	MED	Nonspecific cerebrovascular disorders w/o CC/MCC	0.9586	2.9	3.7
+073	No	No	01	MED	Cranial & peripheral nerve disorders w MCC	1.1717	4.8	6.4
+074	No	No	01	MED	Cranial & peripheral nerve disorders w/o MCC	0.8954	3.4	4.4
+075	No	No	01	MED	Viral meningitis w CC/MCC	1.5369	6.0	7.6
+076	No	No	01	MED	Viral meningitis w/o CC/MCC	1.1439	3.4	4.2
+077	No	No	01	MED	Hypertensive encephalopathy w MCC	1.4611	5.6	7.2
+078	No	No	01	MED	Hypertensive encephalopathy w CC	1.0996	3.7	4.6
+079	No	No	01	MED	Hypertensive encephalopathy w/o CC/MCC	0.9839	2.8	3.4
+080	No	No	01	MED	Nontraumatic stupor & coma w MCC	0.9014	3.6	4.9
+081	No	No	01	MED	Nontraumatic stupor & coma w/o MCC	0.7161	2.7	3.4
+082	No	No	01	MED	"Traumatic stupor & coma, coma >1 hr w MCC"	1.6724	3.9	6.4
+083	No	No	01	MED	"Traumatic stupor & coma, coma >1 hr w CC"	1.3328	3.7	5.2
+084	No	No	01	MED	"Traumatic stupor & coma, coma >1 hr w/o CC/MCC"	1.1106	2.3	3.1
+085	Yes	No	01	MED	"Traumatic stupor & coma, coma <1 hr w MCC"	1.6946	5.7	7.9
+086	Yes	No	01	MED	"Traumatic stupor & coma, coma <1 hr w CC"	1.2337	4.0	5.1
+087	Yes	No	01	MED	"Traumatic stupor & coma, coma <1 hr w/o CC/MCC"	0.9235	2.6	3.4
+088	No	No	01	MED	Concussion w MCC	1.2968	4.3	6.1
+089	No	No	01	MED	Concussion w CC	0.9479	3.0	3.8
+090	No	No	01	MED	Concussion w/o CC/MCC	0.7405	2.0	2.5
+091	Yes	No	01	MED	Other disorders of nervous system w MCC	1.3242	4.7	6.6
+092	Yes	No	01	MED	Other disorders of nervous system w CC	0.9529	3.5	4.4
+093	Yes	No	01	MED	Other disorders of nervous system w/o CC/MCC	0.7710	2.6	3.2
+094	No	No	01	MED	Bacterial & tuberculous infections of nervous system w MCC	3.1499	9.7	12.5
+095	No	No	01	MED	Bacterial & tuberculous infections of nervous system w CC	2.5679	7.2	9.1
+096	No	No	01	MED	Bacterial & tuberculous infections of nervous system w/o CC/MCC	2.3482	4.9	6.2
+097	No	No	01	MED	Non-bacterial infect of nervous sys exc viral meningitis w MCC	2.6665	9.3	11.8
+098	No	No	01	MED	Non-bacterial infect of nervous sys exc viral meningitis w CC	2.0568	6.8	8.5
+099	No	No	01	MED	Non-bacterial infect of nervous sys exc viral meningitis w/o CC/MCC	1.8177	5.1	6.3
+100	Yes	No	01	MED	Seizures w MCC	1.2500	4.7	6.3
+101	Yes	No	01	MED	Seizures w/o MCC	0.8258	2.9	3.7
+102	No	No	01	MED	Headaches w MCC	0.8710	3.6	5.1
+103	No	No	01	MED	Headaches w/o MCC	0.6677	2.5	3.2
+113	No	No	02	SURG	Orbital procedures w CC/MCC	1.4141	3.8	5.5
+114	No	No	02	SURG	Orbital procedures w/o CC/MCC	1.0292	2.0	2.7
+115	No	No	02	SURG	Extraocular procedures except orbit	1.1185	3.3	4.5
+116	No	No	02	SURG	Intraocular procedures w CC/MCC	0.8891	2.2	3.4
+117	No	No	02	SURG	Intraocular procedures w/o CC/MCC	0.7094	1.5	1.9
+121	No	No	02	MED	Acute major eye infections w CC/MCC	0.8800	4.6	5.8
+122	No	No	02	MED	Acute major eye infections w/o CC/MCC	0.6608	3.3	4.1
+123	No	No	02	MED	Neurological eye disorders	0.7224	2.4	2.9
+124	No	No	02	MED	Other disorders of the eye w MCC	0.9308	3.9	5.3
+125	No	No	02	MED	Other disorders of the eye w/o MCC	0.6792	2.7	3.5
+129	No	No	03	SURG	Major head & neck procedures w CC/MCC or major device	1.7992	3.7	5.1
+130	No	No	03	SURG	Major head & neck procedures w/o CC/MCC	1.3987	2.4	3.2
+131	No	No	03	SURG	Cranial/facial procedures w CC/MCC	1.6300	4.0	5.8
+132	No	No	03	SURG	Cranial/facial procedures w/o CC/MCC	1.2054	2.1	2.6
+133	No	No	03	SURG	"Other ear, nose, mouth & throat O.R. procedures w CC/MCC"	1.4331	3.7	5.8
+134	No	No	03	SURG	"Other ear, nose, mouth & throat O.R. procedures w/o CC/MCC"	0.9474	1.7	2.1
+135	No	No	03	SURG	Sinus & mastoid procedures w CC/MCC	1.5318	4.3	6.4
+136	No	No	03	SURG	Sinus & mastoid procedures w/o CC/MCC	1.1094	1.8	2.6
+137	No	No	03	SURG	Mouth procedures w CC/MCC	1.2677	3.7	5.4
+138	No	No	03	SURG	Mouth procedures w/o CC/MCC	0.8474	1.9	2.4
+139	No	No	03	SURG	Salivary gland procedures	0.8470	1.4	1.8
+146	No	No	03	MED	"Ear, nose, mouth & throat malignancy w MCC"	1.7734	7.1	10.3
+147	No	No	03	MED	"Ear, nose, mouth & throat malignancy w CC"	1.2182	4.2	5.8
+148	No	No	03	MED	"Ear, nose, mouth & throat malignancy w/o CC/MCC"	1.0070	2.5	3.5
+149	No	No	03	MED	Dysequilibrium	0.6154	2.2	2.7
+150	No	No	03	MED	Epistaxis w MCC	0.9916	4.0	5.5
+151	No	No	03	MED	Epistaxis w/o MCC	0.6227	2.3	2.9
+152	No	No	03	MED	Otitis media & URI w MCC	0.8160	3.7	4.7
+153	No	No	03	MED	Otitis media & URI w/o MCC	0.6207	2.8	3.4
+154	No	No	03	MED	Nasal trauma & deformity w MCC	1.1294	4.8	6.5
+155	No	No	03	MED	Nasal trauma & deformity w CC	0.8630	3.5	4.5
+156	No	No	03	MED	Nasal trauma & deformity w/o CC/MCC	0.7412	2.5	3.2
+157	No	No	03	MED	Dental & Oral Diseases w MCC	1.1909	5.0	6.9
+158	No	No	03	MED	Dental & Oral Diseases w CC	0.8653	3.4	4.4
+159	No	No	03	MED	Dental & Oral Diseases w/o CC/MCC	0.7361	2.4	3.1
+163	Yes	No	04	SURG	Major chest procedures w MCC	4.0452	12.2	15.0
+164	Yes	No	04	SURG	Major chest procedures w CC	2.8081	6.9	8.3
+165	Yes	No	04	SURG	Major chest procedures w/o CC/MCC	2.4106	4.5	5.4
+166	Yes	No	04	SURG	Other resp system O.R. procedures w MCC	3.2677	10.1	13.0
+167	Yes	No	04	SURG	Other resp system O.R. procedures w CC	2.4151	6.5	8.1
+168	Yes	No	04	SURG	Other resp system O.R. procedures w/o CC/MCC	1.8181	4.0	5.4
+175	Yes	No	04	MED	Pulmonary embolism w MCC	1.4152	6.1	7.4
+176	Yes	No	04	MED	Pulmonary embolism w/o MCC	1.1580	4.7	5.5
+177	Yes	No	04	MED	Respiratory infections & inflammations w MCC	1.8444	7.2	9.2
+178	Yes	No	04	MED	Respiratory infections & inflammations w CC	1.5636	6.0	7.4
+179	Yes	No	04	MED	Respiratory infections & inflammations w/o CC/MCC	1.2754	4.6	5.6
+180	No	No	04	MED	Respiratory neoplasms w MCC	1.5550	6.1	8.0
+181	No	No	04	MED	Respiratory neoplasms w CC	1.3126	4.5	6.0
+182	No	No	04	MED	Respiratory neoplasms w/o CC/MCC	1.1455	3.3	4.3
+183	No	No	04	MED	Major chest trauma w MCC	1.2664	5.7	7.2
+184	No	No	04	MED	Major chest trauma w CC	0.9611	3.8	4.6
+185	No	No	04	MED	Major chest trauma w/o CC/MCC	0.7298	2.7	3.3
+186	Yes	No	04	MED	Pleural effusion w MCC	1.4542	5.8	7.5
+187	Yes	No	04	MED	Pleural effusion w CC	1.1947	4.2	5.5
+188	Yes	No	04	MED	Pleural effusion w/o CC/MCC	0.9745	3.2	4.1
+189	No	No	04	MED	Pulmonary edema & respiratory failure	1.3660	4.8	6.2
+190	Yes	No	04	MED	Chronic obstructive pulmonary disease w MCC	1.1138	5.1	6.5
+191	Yes	No	04	MED	Chronic obstructive pulmonary disease w CC	0.9405	4.2	5.1
+192	Yes	No	04	MED	Chronic obstructive pulmonary disease w/o CC/MCC	0.8145	3.4	4.0
+193	Yes	No	04	MED	Simple pneumonia & pleurisy w MCC	1.2505	5.5	6.9
+194	Yes	No	04	MED	Simple pneumonia & pleurisy w CC	1.0235	4.5	5.3
+195	Yes	No	04	MED	Simple pneumonia & pleurisy w/o CC/MCC	0.8398	3.5	4.1
+196	Yes	No	04	MED	Interstitial lung disease w MCC	1.3781	5.8	7.3
+197	Yes	No	04	MED	Interstitial lung disease w CC	1.1458	4.4	5.4
+198	Yes	No	04	MED	Interstitial lung disease w/o CC/MCC	0.9654	3.5	4.3
+199	No	No	04	MED	Pneumothorax w MCC	1.4699	6.6	8.5
+200	No	No	04	MED	Pneumothorax w CC	1.0753	3.9	5.1
+201	No	No	04	MED	Pneumothorax w/o CC/MCC	0.8588	3.2	4.1
+202	No	No	04	MED	Bronchitis & asthma w CC/MCC	0.7841	3.6	4.5
+203	No	No	04	MED	Bronchitis & asthma w/o CC/MCC	0.6252	2.9	3.5
+204	No	No	04	MED	Respiratory signs & symptoms	0.6658	2.2	2.9
+205	Yes	No	04	MED	Other respiratory system diagnoses w MCC	1.0636	4.2	5.6
+206	Yes	No	04	MED	Other respiratory system diagnoses w/o MCC	0.7848	2.7	3.5
+207	Yes	No	04	MED	Respiratory system diagnosis w ventilator support 96+ hours	5.1231	12.6	15.0
+208	No	No	04	MED	Respiratory system diagnosis w ventilator support <96 hours	2.2463	5.2	7.3
+215	No	No	05	SURG	Other heart assist system implant	12.0016	6.3	12.0
+216	Yes	No	05	SURG	Cardiac valve & oth maj cardiothoracic proc w card cath w MCC	9.3040	15.9	18.7
+217	Yes	No	05	SURG	Cardiac valve & oth maj cardiothoracic proc w card cath w CC	7.5813	10.9	12.2
+218	Yes	No	05	SURG	Cardiac valve & oth maj cardiothoracic proc w card cath w/o CC/MCC	6.8595	8.3	9.1
+219	Yes	Yes	05	SURG	Cardiac valve & oth maj cardiothoracic proc w/o card cath w MCC	7.2072	11.7	14.5
+220	Yes	Yes	05	SURG	Cardiac valve & oth maj cardiothoracic proc w/o card cath w CC	5.7278	7.6	8.6
+221	Yes	Yes	05	SURG	Cardiac valve & oth maj cardiothoracic proc w/o card cath w/o CC/MCC	5.2463	6.0	6.4
+222	No	No	05	SURG	Cardiac defib implant w cardiac cath w AMI/HF/shock w MCC	8.0234	10.8	13.3
+223	No	No	05	SURG	Cardiac defib implant w cardiac cath w AMI/HF/shock w/o MCC	6.8809	5.0	6.6
+224	No	No	05	SURG	Cardiac defib implant w cardiac cath w/o AMI/HF/shock w MCC	7.3178	9.2	11.5
+225	No	No	05	SURG	Cardiac defib implant w cardiac cath w/o AMI/HF/shock w/o MCC	6.2956	4.5	5.7
+226	No	No	05	SURG	Cardiac defibrillator implant w/o cardiac cath w MCC	5.9123	6.2	9.4
+227	No	No	05	SURG	Cardiac defibrillator implant w/o cardiac cath w/o MCC	5.0411	1.8	2.8
+228	Yes	No	05	SURG	Other cardiothoracic procedures w MCC	6.7400	12.0	14.6
+229	Yes	No	05	SURG	Other cardiothoracic procedures w CC	5.3191	7.9	9.0
+230	Yes	No	05	SURG	Other cardiothoracic procedures w/o CC/MCC	4.7847	5.6	6.6
+231	No	No	05	SURG	Coronary bypass w PTCA w MCC	7.2993	10.8	13.2
+232	No	No	05	SURG	Coronary bypass w PTCA w/o MCC	6.1947	8.0	9.0
+233	Yes	No	05	SURG	Coronary bypass w cardiac cath w MCC	6.4496	12.4	14.3
+234	Yes	No	05	SURG	Coronary bypass w cardiac cath w/o MCC	4.9216	8.2	8.9
+235	Yes	No	05	SURG	Coronary bypass w/o cardiac cath w MCC	5.1381	9.7	11.5
+236	Yes	No	05	SURG	Coronary bypass w/o cardiac cath w/o MCC	3.7307	6.1	6.6
+237	No	No	05	SURG	Major cardiovasc procedures w MCC or thoracic aortic anuerysm repair	4.4954	7.8	11.2
+238	No	No	05	SURG	Major cardiovasc procedures w/o MCC	3.1891	3.4	4.9
+239	Yes	No	05	SURG	Amputation for circ sys disorders exc upper limb & toe w MCC	3.9454	12.1	15.6
+240	Yes	No	05	SURG	Amputation for circ sys disorders exc upper limb & toe w CC	2.9983	8.4	10.5
+241	Yes	No	05	SURG	Amputation for circ sys disorders exc upper limb & toe w/o CC/MCC	2.4709	5.7	6.9
+242	Yes	No	05	SURG	Permanent cardiac pacemaker implant w MCC	3.2586	6.9	8.9
+243	Yes	No	05	SURG	Permanent cardiac pacemaker implant w CC	2.5483	3.8	5.1
+244	Yes	No	05	SURG	Permanent cardiac pacemaker implant w/o CC/MCC	2.1367	2.2	2.9
+245	No	No	05	SURG	AICD lead & generator procedures	3.1073	2.1	3.3
+246	No	No	05	SURG	Perc cardiovasc proc w drug-eluting stent w MCC or 4+ vessels/stents	2.9046	3.7	5.5
+247	No	No	05	SURG	Perc cardiovasc proc w drug-eluting stent w/o MCC	2.1255	1.7	2.2
+248	No	No	05	SURG	Perc cardiovasc proc w non-drug-eluting stent w MCC or 4+ ves/stents	2.5180	4.3	6.2
+249	No	No	05	SURG	Perc cardiovasc proc w non-drug-eluting stent w/o MCC	1.8124	1.9	2.5
+250	No	No	05	SURG	Perc cardiovasc proc w/o coronary artery stent or AMI w MCC	2.4870	5.3	7.5
+251	No	No	05	SURG	Perc cardiovasc proc w/o coronary artery stent or AMI w/o MCC	1.7480	2.1	3.0
+252	No	No	05	SURG	Other vascular procedures w MCC	2.7564	5.6	8.8
+253	No	No	05	SURG	Other vascular procedures w CC	2.2536	4.1	6.0
+254	No	No	05	SURG	Other vascular procedures w/o CC/MCC	1.6786	2.0	2.8
+255	Yes	No	05	SURG	Upper limb & toe amputation for circ system disorders w MCC	2.1486	7.3	9.9
+256	Yes	No	05	SURG	Upper limb & toe amputation for circ system disorders w CC	1.6847	5.8	7.5
+257	Yes	No	05	SURG	Upper limb & toe amputation for circ system disorders w/o CC/MCC	1.3990	3.7	4.9
+258	No	No	05	SURG	Cardiac pacemaker device replacement w MCC	2.2926	5.5	7.6
+259	No	No	05	SURG	Cardiac pacemaker device replacement w/o MCC	1.6553	1.9	2.6
+260	No	No	05	SURG	Cardiac pacemaker revision except device replacement w MCC	2.1625	7.2	10.2
+261	No	No	05	SURG	Cardiac pacemaker revision except device replacement w CC	1.3212	2.8	3.9
+262	No	No	05	SURG	Cardiac pacemaker revision except device replacement w/o CC/MCC	1.1245	1.9	2.5
+263	No	No	05	SURG	Vein ligation & stripping	1.4977	3.5	5.5
+264	Yes	No	05	SURG	Other circulatory system O.R. procedures	2.4840	5.9	9.0
+280	Yes	No	05	MED	"Acute myocardial infarction, discharged alive w MCC"	1.7391	5.9	7.5
+281	Yes	No	05	MED	"Acute myocardial infarction, discharged alive w CC"	1.3126	4.0	4.9
+282	Yes	No	05	MED	"Acute myocardia infarction, discharged alive w/o CC/MCC"	1.0617	2.6	3.2
+283	No	No	05	MED	"Acute myocardial infarction, expired w MCC"	1.5787	3.4	5.5
+284	No	No	05	MED	"Acute myocardial infarction, expired w CC"	1.2074	2.3	3.5
+285	No	No	05	MED	"Acute myocardial infarction, expired w/o CC/MCC"	1.0421	1.6	2.2
+286	No	No	05	MED	"Circulatory disorders except AMI, w card cath w MCC"	1.6667	5.2	7.1
+287	No	No	05	MED	"Circulatory disorders except AMI, w card cath w/o MCC"	1.1412	2.5	3.2
+288	Yes	No	05	MED	Acute & subacute endocarditis w MCC	2.9143	9.6	12.2
+289	Yes	No	05	MED	Acute & subacute endocarditis w CC	2.3075	7.1	8.7
+290	Yes	No	05	MED	Acute & subacute endocarditis w/o CC/MCC	1.9733	5.2	6.6
+291	Yes	No	05	MED	Heart failure & shock w MCC	1.2585	5.1	6.6
+292	Yes	No	05	MED	Heart failure & shock w CC	1.0134	4.1	5.0
+293	Yes	No	05	MED	Heart failure & shock w/o CC/MCC	0.8765	3.1	3.7
+294	No	No	05	MED	Deep vein thrombophlebitis w CC/MCC	0.8665	4.6	5.5
+295	No	No	05	MED	Deep vein thrombophlebitis w/o CC/MCC	0.6950	3.8	4.4
+296	No	No	05	MED	"Cardiac arrest, unexplained w MCC"	1.1144	2.0	3.3
+297	No	No	05	MED	"Cardiac arrest, unexplained w CC"	0.8490	1.5	1.9
+298	No	No	05	MED	"Cardiac arrest, unexplained w/o CC/MCC"	0.7207	1.2	1.4
+299	Yes	No	05	MED	Peripheral vascular disorders w MCC	1.2220	5.2	6.9
+300	Yes	No	05	MED	Peripheral vascular disorders w CC	0.9451	4.1	5.1
+301	Yes	No	05	MED	Peripheral vascular disorders w/o CC/MCC	0.7183	3.1	3.8
+302	No	No	05	MED	Atherosclerosis w MCC	0.8236	3.3	4.4
+303	No	No	05	MED	Atherosclerosis w/o MCC	0.6055	2.1	2.6
+304	No	No	05	MED	Hypertension w MCC	0.8312	3.9	5.2
+305	No	No	05	MED	Hypertension w/o MCC	0.5942	2.3	2.9
+306	No	No	05	MED	Cardiac congenital & valvular disorders w MCC	1.2007	4.5	6.5
+307	No	No	05	MED	Cardiac congenital & valvular disorders w/o MCC	0.8224	2.7	3.5
+308	No	No	05	MED	Cardiac arrhythmia & conduction disorders w MCC	1.0841	4.3	5.8
+309	No	No	05	MED	Cardiac arrhythmia & conduction disorders w CC	0.8233	3.1	3.9
+310	No	No	05	MED	Cardiac arrhythmia & conduction disorders w/o CC/MCC	0.6439	2.3	2.8
+311	No	No	05	MED	Angina pectoris	0.5118	1.9	2.3
+312	No	No	05	MED	Syncope & collapse	0.7197	2.5	3.2
+313	No	No	05	MED	Chest pain	0.5489	1.7	2.1
+314	Yes	No	05	MED	Other circulatory system diagnoses w MCC	1.5606	5.1	7.1
+315	Yes	No	05	MED	Other circulatory system diagnoses w CC	1.1720	3.5	4.6
+316	Yes	No	05	MED	Other circulatory system diagnoses w/o CC/MCC	0.9075	2.4	3.0
+326	Yes	No	06	SURG	"Stomach, esophageal & duodenal proc w MCC"	5.1660	13.4	17.2
+327	Yes	No	06	SURG	"Stomach, esophageal & duodenal proc w CC"	3.2941	8.1	10.3
+328	Yes	No	06	SURG	"Stomach, esophageal & duodenal proc w/o CC/MCC"	1.8017	3.3	4.4
+329	Yes	No	06	SURG	Major small & large bowel procedures w MCC	4.5059	12.8	15.9
+330	Yes	No	06	SURG	Major small & large bowel procedures w CC	2.8935	8.4	9.8
+331	Yes	No	06	SURG	Major small & large bowel procedures w/o CC/MCC	1.8415	5.4	6.0
+332	Yes	No	06	SURG	Rectal resection w MCC	3.7139	12.2	14.7
+333	Yes	No	06	SURG	Rectal resection w CC	2.5787	7.8	8.9
+334	Yes	No	06	SURG	Rectal resection w/o CC/MCC	1.7856	4.9	5.6
+335	Yes	No	06	SURG	Peritoneal adhesiolysis w MCC	3.4785	11.8	14.4
+336	Yes	No	06	SURG	Peritoneal adhesiolysis w CC	2.4776	7.7	9.3
+337	Yes	No	06	SURG	Peritoneal adhesiolysis w/o CC/MCC	1.6984	4.4	5.7
+338	No	No	06	SURG	Appendectomy w complicated principal diag w MCC	2.7254	9.1	10.9
+339	No	No	06	SURG	Appendectomy w complicated principal diag w CC	1.9805	6.1	7.1
+340	No	No	06	SURG	Appendectomy w complicated principal diag w/o CC/MCC	1.3849	3.6	4.3
+341	No	No	06	SURG	Appendectomy w/o complicated principal diag w MCC	1.8824	5.3	7.3
+342	No	No	06	SURG	Appendectomy w/o complicated principal diag w CC	1.3562	3.4	4.3
+343	No	No	06	SURG	Appendectomy w/o complicated principal diag w/o CC/MCC	0.9887	1.9	2.3
+344	No	No	06	SURG	Minor small & large bowel procedures w MCC	2.5156	9.4	12.0
+345	No	No	06	SURG	Minor small & large bowel procedures w CC	1.7028	6.2	7.2
+346	No	No	06	SURG	Minor small & large bowel procedures w/o CC/MCC	1.2617	4.4	5.0
+347	No	No	06	SURG	Anal & stomal procedures w MCC	1.7658	6.2	8.4
+348	No	No	06	SURG	Anal & stomal procedures w CC	1.2781	4.1	5.5
+349	No	No	06	SURG	Anal & stomal procedures w/o CC/MCC	0.8629	2.4	3.0
+350	No	No	06	SURG	Inguinal & femoral hernia procedures w MCC	1.8330	5.9	8.1
+351	No	No	06	SURG	Inguinal & femoral hernia procedures w CC	1.2449	3.4	4.5
+352	No	No	06	SURG	Inguinal & femoral hernia procedures w/o CC/MCC	0.8967	1.9	2.4
+353	No	No	06	SURG	Hernia procedures except inguinal & femoral w MCC	2.0241	6.6	8.8
+354	No	No	06	SURG	Hernia procedures except inguinal & femoral w CC	1.4092	4.0	5.1
+355	No	No	06	SURG	Hernia procedures except inguinal & femoral w/o CC/MCC	1.0147	2.3	2.9
+356	Yes	No	06	SURG	Other digestive system O.R. procedures w MCC	3.3790	9.6	13.3
+357	Yes	No	06	SURG	Other digestive system O.R. procedures w CC	2.4946	6.1	8.0
+358	Yes	No	06	SURG	Other digestive system O.R. procedures w/o CC/MCC	1.7333	3.4	4.6
+368	No	No	06	MED	Major esophageal disorders w MCC	1.3788	5.1	6.6
+369	No	No	06	MED	Major esophageal disorders w CC	1.0839	3.7	4.6
+370	No	No	06	MED	Major esophageal disorders w/o CC/MCC	0.9558	2.8	3.4
+371	Yes	No	06	MED	Major gastrointestinal disorders & peritoneal infections w MCC	1.6263	6.6	8.8
+372	Yes	No	06	MED	Major gastrointestinal disorders & peritoneal infections w CC	1.3059	5.5	6.8
+373	Yes	No	06	MED	Major gastrointestinal disorders & peritoneal infections w/o CC/MCC	1.1109	4.2	5.0
+374	Yes	No	06	MED	Digestive malignancy w MCC	1.7229	6.5	8.8
+375	Yes	No	06	MED	Digestive malignancy w CC	1.3337	4.6	6.0
+376	Yes	No	06	MED	Digestive malignancy w/o CC/MCC	1.0268	3.1	4.1
+377	Yes	No	06	MED	G.I. hemorrhage w MCC	1.3367	5.0	6.5
+378	Yes	No	06	MED	G.I. hemorrhage w CC	1.0195	3.7	4.5
+379	Yes	No	06	MED	G.I. hemorrhage w/o CC/MCC	0.8476	2.9	3.4
+380	Yes	No	06	MED	Complicated peptic ulcer w MCC	1.4334	5.5	7.2
+381	Yes	No	06	MED	Complicated peptic ulcer w CC	1.1302	4.2	5.1
+382	Yes	No	06	MED	Complicated peptic ulcer w/o CC/MCC	0.9662	3.0	3.6
+383	No	No	06	MED	Uncomplicated peptic ulcer w MCC	1.1024	4.6	5.9
+384	No	No	06	MED	Uncomplicated peptic ulcer w/o MCC	0.8399	3.2	3.8
+385	No	No	06	MED	Inflammatory bowel disease w MCC	1.4936	6.7	9.0
+386	No	No	06	MED	Inflammatory bowel disease w CC	1.0766	4.6	5.7
+387	No	No	06	MED	Inflammatory bowel disease w/o CC/MCC	0.9488	3.6	4.4
+388	Yes	No	06	MED	G.I. obstruction w MCC	1.2860	5.5	7.4
+389	Yes	No	06	MED	G.I. obstruction w CC	0.9533	4.0	5.0
+390	Yes	No	06	MED	G.I. obstruction w/o CC/MCC	0.7260	3.0	3.6
+391	No	No	06	MED	"Esophagitis, gastroent & misc digest disorders w MCC"	0.9565	4.1	5.5
+392	No	No	06	MED	"Esophagitis, gastroent & misc digest disorders w/o MCC"	0.7121	2.8	3.5
+393	No	No	06	MED	Other digestive system diagnoses w MCC	1.3237	5.0	7.0
+394	No	No	06	MED	Other digestive system diagnoses w CC	1.0257	3.8	4.9
+395	No	No	06	MED	Other digestive system diagnoses w/o CC/MCC	0.7874	2.7	3.4
+405	Yes	No	07	SURG	"Pancreas, liver & shunt procedures w MCC"	4.8273	12.8	17.3
+406	Yes	No	07	SURG	"Pancreas, liver & shunt procedures w CC"	3.3149	7.1	9.5
+407	Yes	No	07	SURG	"Pancreas, liver & shunt procedures w/o CC/MCC"	2.2443	4.2	5.5
+408	No	No	07	SURG	Biliary tract proc except only cholecyst w or w/o c.d.e. w MCC	3.8540	12.2	15.1
+409	No	No	07	SURG	Biliary tract proc except only cholecyst w or w/o c.d.e. w CC	2.9126	8.2	9.9
+410	No	No	07	SURG	Biliary tract proc except only cholecyst w or w/o c.d.e. w/o CC/MCC	2.0794	5.7	6.8
+411	No	No	07	SURG	Cholecystectomy w c.d.e. w MCC	3.4128	10.9	13.1
+412	No	No	07	SURG	Cholecystectomy w c.d.e. w CC	2.6382	7.6	8.8
+413	No	No	07	SURG	Cholecystectomy w c.d.e. w/o CC/MCC	1.9412	5.2	6.0
+414	Yes	No	07	SURG	Cholecystectomy except by laparoscope w/o c.d.e. w MCC	3.0942	9.7	11.9
+415	Yes	No	07	SURG	Cholecystectomy except by laparoscope w/o c.d.e. w CC	2.2749	6.6	7.7
+416	Yes	No	07	SURG	Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC	1.5398	4.1	4.9
+417	No	No	07	SURG	Laparoscopic cholecystectomy w/o c.d.e. w MCC	2.1361	6.6	8.4
+418	No	No	07	SURG	Laparoscopic cholecystectomy w/o c.d.e. w CC	1.7104	4.5	5.6
+419	No	No	07	SURG	Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC	1.2400	2.5	3.2
+420	No	No	07	SURG	Hepatobiliary diagnostic procedures w MCC	3.4851	10.1	14.2
+421	No	No	07	SURG	Hepatobiliary diagnostic procedures w CC	2.2557	5.6	7.8
+422	No	No	07	SURG	Hepatobiliary diagnostic procedures w/o CC/MCC	1.9432	3.4	4.5
+423	No	No	07	SURG	Other hepatobiliary or pancreas O.R. procedures w MCC	3.9593	11.4	15.5
+424	No	No	07	SURG	Other hepatobiliary or pancreas O.R. procedures w CC	3.0104	7.8	10.2
+425	No	No	07	SURG	Other hepatobiliary or pancreas O.R. procedures w/o CC/MCC	2.5812	4.5	5.6
+432	No	No	07	MED	Cirrhosis & alcoholic hepatitis w MCC	1.5033	5.1	6.9
+433	No	No	07	MED	Cirrhosis & alcoholic hepatitis w CC	1.1431	3.8	4.9
+434	No	No	07	MED	Cirrhosis & alcoholic hepatitis w/o CC/MCC	1.0125	2.8	3.6
+435	No	No	07	MED	Malignancy of hepatobiliary system or pancreas w MCC	1.5661	5.8	7.7
+436	No	No	07	MED	Malignancy of hepatobiliary system or pancreas w CC	1.2906	4.5	5.9
+437	No	No	07	MED	Malignancy of hepatobiliary system or pancreas w/o CC/MCC	1.1709	3.3	4.4
+438	No	No	07	MED	Disorders of pancreas except malignancy w MCC	1.4201	5.6	7.7
+439	No	No	07	MED	Disorders of pancreas except malignancy w CC	1.0609	4.3	5.4
+440	No	No	07	MED	Disorders of pancreas except malignancy w/o CC/MCC	0.8912	3.2	3.9
+441	Yes	No	07	MED	"Disorders of liver except malig,cirr,alc hepa w MCC"	1.3973	5.1	7.0
+442	Yes	No	07	MED	"Disorders of liver except malig,cirr,alc hepa w CC"	1.0935	4.0	5.1
+443	Yes	No	07	MED	"Disorders of liver except malig,cirr,alc hepa w/o CC/MCC"	0.9079	3.1	3.8
+444	No	No	07	MED	Disorders of the biliary tract w MCC	1.3744	5.0	6.6
+445	No	No	07	MED	Disorders of the biliary tract w CC	1.1030	3.8	4.8
+446	No	No	07	MED	Disorders of the biliary tract w/o CC/MCC	0.8521	2.6	3.3
+453	No	No	08	SURG	Combined anterior/posterior spinal fusion w MCC	8.4313	12.7	15.9
+454	No	No	08	SURG	Combined anterior/posterior spinal fusion w CC	6.5810	6.8	8.4
+455	No	No	08	SURG	Combined anterior/posterior spinal fusion w/o CC/MCC	5.7023	4.1	4.7
+456	No	No	08	SURG	Spinal fus exc cerv w spinal curv/malig/infec or 9+ fus w MCC	6.7669	12.1	15.9
+457	No	No	08	SURG	Spinal fus exc cerv w spinal curv/malig/infec or 9+ fus w CC	5.4650	6.4	7.8
+458	No	No	08	SURG	Spinal fus exc cerv w spinal curv/malig/infec or 9+ fus w/o CC/MCC	4.9437	4.1	4.6
+459	Yes	No	08	SURG	Spinal fusion except cervical w MCC	4.8679	7.8	9.6
+460	Yes	No	08	SURG	Spinal fusion except cervical w/o MCC	3.4870	3.8	4.3
+461	No	No	08	SURG	Bilateral or multiple major joint procs of lower extremity w MCC	3.8345	6.9	8.5
+462	No	No	08	SURG	Bilateral or multiple major joint procs of lower extremity w/o MCC	3.0993	3.9	4.3
+463	Yes	No	08	SURG	"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w MCC"	3.9615	12.3	16.9
+464	Yes	No	08	SURG	"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w CC"	2.8821	7.8	10.4
+465	Yes	No	08	SURG	"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w/o CC/MCC"	2.3417	4.6	6.2
+466	Yes	No	08	SURG	Revision of hip or knee replacement w MCC	3.5408	7.6	9.5
+467	Yes	No	08	SURG	Revision of hip or knee replacement w CC	2.7523	4.8	5.6
+468	Yes	No	08	SURG	Revision of hip or knee replacement w/o CC/MCC	2.4545	3.7	4.0
+469	Yes	No	08	SURG	Major joint replacement or reattachment of lower extremity w MCC	2.6664	7.1	8.4
+470	Yes	No	08	SURG	Major joint replacement or reattachment of lower extremity w/o MCC	1.9871	3.7	4.0
+471	No	No	08	SURG	Cervical spinal fusion w MCC	3.4723	7.0	10.1
+472	No	No	08	SURG	Cervical spinal fusion w CC	2.4819	2.9	4.3
+473	No	No	08	SURG	Cervical spinal fusion w/o CC/MCC	1.9446	1.6	2.0
+474	Yes	No	08	SURG	Amputation for musculoskeletal sys & conn tissue dis w MCC	2.8432	9.5	12.5
+475	Yes	No	08	SURG	Amputation for musculoskeletal sys & conn tissue dis w CC	2.1308	6.6	8.6
+476	Yes	No	08	SURG	Amputation for musculoskeletal sys & conn tissue dis w/o CC/MCC	1.6799	3.8	5.0
+477	Yes	Yes	08	SURG	Biopsies of musculoskeletal system & connective tissue w MCC	2.6555	9.6	12.5
+478	Yes	Yes	08	SURG	Biopsies of musculoskeletal system & connective tissue w CC	1.9836	4.8	6.8
+479	Yes	Yes	08	SURG	Biopsies of musculoskeletal system & connective tissue w/o CC/MCC	1.6784	1.9	2.8
+480	Yes	Yes	08	SURG	Hip & femur procedures except major joint w MCC	2.4027	8.0	9.5
+481	Yes	Yes	08	SURG	Hip & femur procedures except major joint w CC	1.8485	5.4	6.0
+482	Yes	Yes	08	SURG	Hip & femur procedures except major joint w/o CC/MCC	1.5644	4.5	4.9
+483	Yes	No	08	SURG	Major joint & limb reattachment proc of upper extremity w CC/MCC	1.9905	3.5	4.4
+484	Yes	No	08	SURG	Major joint & limb reattachment proc of upper extremity w/o CC/MCC	1.7376	2.2	2.5
+485	No	No	08	SURG	Knee procedures w pdx of infection w MCC	2.9362	10.2	12.4
+486	No	No	08	SURG	Knee procedures w pdx of infection w CC	2.3382	6.8	8.1
+487	No	No	08	SURG	Knee procedures w pdx of infection w/o CC/MCC	1.7771	5.0	5.8
+488	Yes	No	08	SURG	Knee procedures w/o pdx of infection w CC/MCC	1.6584	4.1	5.1
+489	Yes	No	08	SURG	Knee procedures w/o pdx of infection w/o CC/MCC	1.4512	2.7	3.1
+490	No	No	08	SURG	Back & neck proc exc spinal fusion w CC/MCC or disc device/neurostim	1.4912	3.3	4.7
+491	No	No	08	SURG	Back & neck proc exc spinal fusion w/o CC/MCC	1.0066	1.8	2.3
+492	Yes	Yes	08	SURG	"Lower extrem & humer proc except hip,foot,femur w MCC"	2.2413	6.9	8.7
+493	Yes	Yes	08	SURG	"Lower extrem & humer proc except hip,foot,femur w CC"	1.7186	4.4	5.3
+494	Yes	Yes	08	SURG	"Lower extrem & humer proc except hip,foot,femur w/o CC/MCC"	1.2752	2.8	3.4
+495	Yes	No	08	SURG	Local excision & removal int fix devices exc hip & femur w MCC	2.5765	8.3	11.1
+496	Yes	No	08	SURG	Local excision & removal int fix devices exc hip & femur w CC	1.7792	4.6	6.0
+497	Yes	No	08	SURG	Local excision & removal int fix devices exc hip & femur w/o CC/MCC	1.2301	2.3	3.1
+498	No	No	08	SURG	Local excision & removal int fix devices of hip & femur w CC/MCC	1.7563	5.8	8.2
+499	No	No	08	SURG	Local excision & removal int fix devices of hip & femur w/o CC/MCC	1.1887	2.3	3.1
+500	Yes	Yes	08	SURG	Soft tissue procedures w MCC	2.4096	8.1	11.3
+501	Yes	Yes	08	SURG	Soft tissue procedures w CC	1.5598	4.4	5.9
+502	Yes	Yes	08	SURG	Soft tissue procedures w/o CC/MCC	1.0342	2.3	2.9
+503	No	No	08	SURG	Foot procedures w MCC	1.7538	6.9	8.9
+504	No	No	08	SURG	Foot procedures w CC	1.4058	5.0	6.4
+505	No	No	08	SURG	Foot procedures w/o CC/MCC	1.1584	2.6	3.4
+506	No	No	08	SURG	Major thumb or joint procedures	1.0877	2.3	3.2
+507	No	No	08	SURG	Major shoulder or elbow joint procedures w CC/MCC	1.4296	3.6	5.2
+508	No	No	08	SURG	Major shoulder or elbow joint procedures w/o CC/MCC	1.1330	1.7	2.0
+509	No	No	08	SURG	Arthroscopy	1.0769	1.9	2.8
+510	Yes	No	08	SURG	"Shoulder,elbow or forearm proc,exc major joint proc w MCC"	1.6616	5.0	6.6
+511	Yes	No	08	SURG	"Shoulder,elbow or forearm proc,exc major joint proc w CC"	1.2512	3.1	3.9
+512	Yes	No	08	SURG	"Shoulder,elbow or forearm proc,exc major joint proc w/o CC/MCC"	0.9602	1.7	2.1
+513	No	No	08	SURG	"Hand or wrist proc, except major thumb or joint proc w CC/MCC"	1.1748	3.7	5.1
+514	No	No	08	SURG	"Hand or wrist proc, except major thumb or joint proc w/o CC/MCC"	0.8313	2.0	2.6
+515	Yes	Yes	08	SURG	Other musculoskelet sys & conn tiss O.R. proc w MCC	2.4858	8.1	10.9
+516	Yes	Yes	08	SURG	Other musculoskelet sys & conn tiss O.R. proc w CC	1.8307	4.4	6.0
+517	Yes	Yes	08	SURG	Other musculoskelet sys & conn tiss O.R. proc w/o CC/MCC	1.4192	2.0	2.9
+533	Yes	No	08	MED	Fractures of femur w MCC	1.1294	5.1	6.9
+534	Yes	No	08	MED	Fractures of femur w/o MCC	0.7560	3.2	4.0
+535	Yes	No	08	MED	Fractures of hip & pelvis w MCC	1.0836	4.8	6.4
+536	Yes	No	08	MED	Fractures of hip & pelvis w/o MCC	0.7340	3.4	4.0
+537	No	No	08	MED	"Sprains, strains, & dislocations of hip, pelvis & thigh w CC/MCC"	0.7528	3.8	4.7
+538	No	No	08	MED	"Sprains, strains, & dislocations of hip, pelvis & thigh w/o CC/MCC"	0.5986	2.6	3.1
+539	Yes	No	08	MED	Osteomyelitis w MCC	1.7648	7.7	10.2
+540	Yes	No	08	MED	Osteomyelitis w CC	1.4026	5.8	7.2
+541	Yes	No	08	MED	Osteomyelitis w/o CC/MCC	1.2101	4.4	5.7
+542	Yes	No	08	MED	Pathological fractures & musculoskelet & conn tiss malig w MCC	1.4877	6.8	8.7
+543	Yes	No	08	MED	Pathological fractures & musculoskelet & conn tiss malig w CC	1.1151	4.8	6.0
+544	Yes	No	08	MED	Pathological fractures & musculoskelet & conn tiss malig w/o CC/MCC	0.9395	3.7	4.5
+545	Yes	No	08	MED	Connective tissue disorders w MCC	1.8330	6.5	9.0
+546	Yes	No	08	MED	Connective tissue disorders w CC	1.2092	4.3	5.5
+547	Yes	No	08	MED	Connective tissue disorders w/o CC/MCC	0.9054	3.2	3.9
+548	No	No	08	MED	Septic arthritis w MCC	1.5372	7.0	9.3
+549	No	No	08	MED	Septic arthritis w CC	1.1522	5.0	6.2
+550	No	No	08	MED	Septic arthritis w/o CC/MCC	0.9567	3.6	4.5
+551	Yes	No	08	MED	Medical back problems w MCC	1.1632	5.5	7.2
+552	Yes	No	08	MED	Medical back problems w/o MCC	0.7839	3.4	4.2
+553	No	No	08	MED	Bone diseases & arthropathies w MCC	0.9199	4.8	6.1
+554	No	No	08	MED	Bone diseases & arthropathies w/o MCC	0.6475	3.0	3.7
+555	No	No	08	MED	Signs & symptoms of musculoskeletal system & conn tissue w MCC	0.7886	3.6	4.9
+556	No	No	08	MED	Signs & symptoms of musculoskeletal system & conn tissue w/o MCC	0.5958	2.5	3.2
+557	Yes	No	08	MED	"Tendonitis, myositis & bursitis w MCC"	1.2171	5.4	6.9
+558	Yes	No	08	MED	"Tendonitis, myositis & bursitis w/o MCC"	0.8480	3.5	4.3
+559	Yes	No	08	MED	"Aftercare, musculoskeletal system & connective tissue w MCC"	1.2104	5.1	7.3
+560	Yes	No	08	MED	"Aftercare, musculoskeletal system & connective tissue w CC"	0.8521	3.6	4.7
+561	Yes	No	08	MED	"Aftercare, musculoskeletal system & connective tissue w/o CC/MCC"	0.6753	2.1	2.7
+562	Yes	No	08	MED	"Fx, sprn, strn & disl except femur, hip, pelvis & thigh w MCC"	1.1163	5.0	6.5
+563	Yes	No	08	MED	"Fx, sprn, strn & disl except femur, hip, pelvis & thigh w/o MCC"	0.6981	3.1	3.7
+564	No	No	08	MED	Other musculoskeletal sys & connective tissue diagnoses w MCC	1.1606	5.3	7.1
+565	No	No	08	MED	Other musculoskeletal sys & connective tissue diagnoses w CC	0.9003	4.0	5.1
+566	No	No	08	MED	Other musculoskeletal sys & connective tissue diagnoses w/o CC/MCC	0.7790	2.9	3.7
+573	Yes	No	09	SURG	Skin graft &/or debrid for skn ulcer or cellulitis w MCC	2.7483	10.1	13.8
+574	Yes	No	09	SURG	Skin graft &/or debrid for skn ulcer or cellulitis w CC	2.0177	7.2	9.5
+575	Yes	No	09	SURG	Skin graft &/or debrid for skn ulcer or cellulitis w/o CC/MCC	1.4216	4.7	5.9
+576	No	No	09	SURG	Skin graft &/or debrid exc for skin ulcer or cellulitis w MCC	2.4766	7.8	12.1
+577	No	No	09	SURG	Skin graft &/or debrid exc for skin ulcer or cellulitis w CC	1.6262	4.1	6.0
+578	No	No	09	SURG	Skin graft &/or debrid exc for skin ulcer or cellulitis w/o CC/MCC	1.0742	2.5	3.4
+579	Yes	No	09	SURG	"Other skin, subcut tiss & breast proc w MCC"	2.3093	8.1	11.1
+580	Yes	No	09	SURG	"Other skin, subcut tiss & breast proc w CC"	1.4256	3.6	5.5
+581	Yes	No	09	SURG	"Other skin, subcut tiss & breast proc w/o CC/MCC"	0.9124	1.9	2.6
+582	No	No	09	SURG	Mastectomy for malignancy w CC/MCC	0.9432	2.1	2.9
+583	No	No	09	SURG	Mastectomy for malignancy w/o CC/MCC	0.7523	1.6	1.8
+584	No	No	09	SURG	"Breast biopsy, local excision & other breast procedures w CC/MCC"	1.2484	3.7	5.7
+585	No	No	09	SURG	"Breast biopsy, local excision & other breast procedures w/o CC/MCC"	0.9066	1.7	2.2
+592	Yes	No	09	MED	Skin ulcers w MCC	1.4555	6.6	8.9
+593	Yes	No	09	MED	Skin ulcers w CC	1.1060	5.2	6.5
+594	Yes	No	09	MED	Skin ulcers w/o CC/MCC	0.9335	3.9	4.9
+595	No	No	09	MED	Major skin disorders w MCC	1.3997	6.0	8.2
+596	No	No	09	MED	Major skin disorders w/o MCC	0.8766	3.8	4.8
+597	No	No	09	MED	Malignant breast disorders w MCC	1.4034	5.9	8.2
+598	No	No	09	MED	Malignant breast disorders w CC	1.0695	4.2	5.6
+599	No	No	09	MED	Malignant breast disorders w/o CC/MCC	0.7232	2.6	3.6
+600	No	No	09	MED	Non-malignant breast disorders w CC/MCC	0.8471	4.1	5.4
+601	No	No	09	MED	Non-malignant breast disorders w/o CC/MCC	0.6715	3.1	3.8
+602	Yes	No	09	MED	Cellulitis w MCC	1.1522	5.5	7.0
+603	Yes	No	09	MED	Cellulitis w/o MCC	0.8087	3.9	4.7
+604	No	No	09	MED	"Trauma to the skin, subcut tiss & breast w MCC"	0.9681	4.1	5.4
+605	No	No	09	MED	"Trauma to the skin, subcut tiss & breast w/o MCC"	0.6863	2.8	3.5
+606	No	No	09	MED	Minor skin disorders w MCC	0.9223	4.2	5.9
+607	No	No	09	MED	Minor skin disorders w/o MCC	0.6505	2.9	3.8
+614	No	No	10	SURG	Adrenal & pituitary procedures w CC/MCC	2.1978	5.2	7.3
+615	No	No	10	SURG	Adrenal & pituitary procedures w/o CC/MCC	1.6502	2.8	3.4
+616	Yes	No	10	SURG	"Amputat of lower limb for endocrine,nutrit,& metabol dis w MCC"	3.1449	12.6	15.6
+617	Yes	No	10	SURG	"Amputat of lower limb for endocrine,nutrit,& metabol dis w CC"	2.2071	7.2	9.0
+618	Yes	No	10	SURG	"Amputat of lower limb for endocrine,nutrit,& metabol dis w/o CC/MCC"	1.7554	4.9	6.1
+619	No	No	10	SURG	O.R. procedures for obesity w MCC	2.7625	6.4	9.3
+620	No	No	10	SURG	O.R. procedures for obesity w CC	1.9294	3.4	4.2
+621	No	No	10	SURG	O.R. procedures for obesity w/o CC/MCC	1.6876	2.1	2.4
+622	Yes	No	10	SURG	"Skin grafts & wound debrid for endoc, nutrit & metab dis w MCC"	2.7257	9.7	13.2
+623	Yes	No	10	SURG	"Skin grafts & wound debrid for endoc, nutrit & metab dis w CC"	2.0065	6.8	8.7
+624	Yes	No	10	SURG	"Skin grafts & wound debrid for endoc, nutrit & metab dis w/o CC/MCC"	1.6056	4.6	5.9
+625	No	No	10	SURG	"Thyroid, parathyroid & thyroglossal procedures w MCC"	1.5928	5.0	7.5
+626	No	No	10	SURG	"Thyroid, parathyroid & thyroglossal procedures w CC"	1.0183	2.2	3.3
+627	No	No	10	SURG	"Thyroid, parathyroid & thyroglossal procedures w/o CC/MCC"	0.8169	1.3	1.5
+628	Yes	No	10	SURG	"Other endocrine, nutrit & metab O.R. proc w MCC"	3.0602	7.8	11.8
+629	Yes	No	10	SURG	"Other endocrine, nutrit & metab O.R. proc w CC"	2.4730	7.0	8.8
+630	Yes	No	10	SURG	"Other endocrine, nutrit & metab O.R. proc w/o CC/MCC"	1.7767	3.7	5.1
+637	Yes	No	10	MED	Diabetes w MCC	1.0891	4.6	6.2
+638	Yes	No	10	MED	Diabetes w CC	0.8021	3.4	4.3
+639	Yes	No	10	MED	Diabetes w/o CC/MCC	0.6742	2.5	3.1
+640	Yes	No	10	MED	Nutritional & misc metabolic disorders w MCC	0.9793	4.1	5.6
+641	Yes	No	10	MED	Nutritional & misc metabolic disorders w/o MCC	0.7248	3.1	3.9
+642	No	No	10	MED	Inborn errors of metabolism	1.0616	3.8	5.3
+643	Yes	No	10	MED	Endocrine disorders w MCC	1.3926	6.0	7.8
+644	Yes	No	10	MED	Endocrine disorders w CC	1.0638	4.3	5.4
+645	Yes	No	10	MED	Endocrine disorders w/o CC/MCC	0.8310	3.2	3.9
+652	No	No	11	SURG	Kidney transplant	3.0654	6.6	7.9
+653	Yes	No	11	SURG	Major bladder procedures w MCC	4.5710	13.3	16.8
+654	Yes	No	11	SURG	Major bladder procedures w CC	3.1860	8.8	10.1
+655	Yes	No	11	SURG	Major bladder procedures w/o CC/MCC	2.7075	5.8	6.6
+656	No	No	11	SURG	Kidney & ureter procedures for neoplasm w MCC	2.6603	8.4	10.8
+657	No	No	11	SURG	Kidney & ureter procedures for neoplasm w CC	1.8997	5.1	6.1
+658	No	No	11	SURG	Kidney & ureter procedures for neoplasm w/o CC/MCC	1.6556	3.3	3.8
+659	Yes	No	11	SURG	Kidney & ureter procedures for non-neoplasm w MCC	2.8119	8.2	11.3
+660	Yes	No	11	SURG	Kidney & ureter procedures for non-neoplasm w CC	2.0605	4.8	6.5
+661	Yes	No	11	SURG	Kidney & ureter procedures for non-neoplasm w/o CC/MCC	1.4004	2.6	3.3
+662	No	No	11	SURG	Minor bladder procedures w MCC	2.0375	7.3	10.5
+663	No	No	11	SURG	Minor bladder procedures w CC	1.4254	3.6	5.3
+664	No	No	11	SURG	Minor bladder procedures w/o CC/MCC	1.0388	1.6	2.1
+665	No	No	11	SURG	Prostatectomy w MCC	2.1393	9.3	12.2
+666	No	No	11	SURG	Prostatectomy w CC	1.4691	4.3	6.3
+667	No	No	11	SURG	Prostatectomy w/o CC/MCC	0.9335	2.0	2.7
+668	No	No	11	SURG	Transurethral procedures w MCC	1.7208	6.3	8.6
+669	No	No	11	SURG	Transurethral procedures w CC	1.2079	3.1	4.4
+670	No	No	11	SURG	Transurethral procedures w/o CC/MCC	0.8838	1.9	2.5
+671	No	No	11	SURG	Urethral procedures w CC/MCC	1.2808	3.9	5.8
+672	No	No	11	SURG	Urethral procedures w/o CC/MCC	0.8422	1.9	2.5
+673	No	No	11	SURG	Other kidney & urinary tract procedures w MCC	2.5235	6.0	10.2
+674	No	No	11	SURG	Other kidney & urinary tract procedures w CC	2.1024	4.0	6.6
+675	No	No	11	SURG	Other kidney & urinary tract procedures w/o CC/MCC	1.7196	1.4	1.9
+682	Yes	No	11	MED	Renal failure w MCC	1.4664	5.3	7.3
+683	Yes	No	11	MED	Renal failure w CC	1.1942	4.5	5.7
+684	Yes	No	11	MED	Renal failure w/o CC/MCC	0.9835	3.1	3.8
+685	No	No	11	MED	Admit for renal dialysis	0.8599	2.4	3.5
+686	No	No	11	MED	Kidney & urinary tract neoplasms w MCC	1.4513	6.0	8.1
+687	No	No	11	MED	Kidney & urinary tract neoplasms w CC	1.1147	4.0	5.3
+688	No	No	11	MED	Kidney & urinary tract neoplasms w/o CC/MCC	0.8577	2.5	3.2
+689	Yes	No	11	MED	Kidney & urinary tract infections w MCC	1.0587	5.0	6.4
+690	Yes	No	11	MED	Kidney & urinary tract infections w/o MCC	0.8000	3.6	4.3
+691	No	No	11	MED	Urinary stones w esw lithotripsy w CC/MCC	1.1508	3.0	4.2
+692	No	No	11	MED	Urinary stones w esw lithotripsy w/o CC/MCC	0.9457	1.8	2.3
+693	No	No	11	MED	Urinary stones w/o esw lithotripsy w MCC	1.0459	3.9	5.2
+694	No	No	11	MED	Urinary stones w/o esw lithotripsy w/o MCC	0.7110	2.0	2.6
+695	No	No	11	MED	Kidney & urinary tract signs & symptoms w MCC	0.9422	4.3	5.7
+696	No	No	11	MED	Kidney & urinary tract signs & symptoms w/o MCC	0.6276	2.6	3.2
+697	No	No	11	MED	Urethral stricture	0.7223	2.4	3.3
+698	Yes	No	11	MED	Other kidney & urinary tract diagnoses w MCC	1.3017	5.1	6.8
+699	Yes	No	11	MED	Other kidney & urinary tract diagnoses w CC	1.0352	3.8	4.9
+700	Yes	No	11	MED	Other kidney & urinary tract diagnoses w/o CC/MCC	0.8232	2.7	3.5
+707	No	No	12	SURG	Major male pelvic procedures w CC/MCC	1.5521	3.5	4.5
+708	No	No	12	SURG	Major male pelvic procedures w/o CC/MCC	1.1858	2.0	2.4
+709	No	No	12	SURG	Penis procedures w CC/MCC	1.6134	3.6	6.5
+710	No	No	12	SURG	Penis procedures w/o CC/MCC	1.2986	1.5	1.9
+711	No	No	12	SURG	Testes procedures w CC/MCC	1.6051	5.3	7.8
+712	No	No	12	SURG	Testes procedures w/o CC/MCC	1.0842	2.1	3.0
+713	No	No	12	SURG	Transurethral prostatectomy w CC/MCC	0.9850	2.9	4.2
+714	No	No	12	SURG	Transurethral prostatectomy w/o CC/MCC	0.6710	1.7	2.0
+715	No	No	12	SURG	Other male reproductive system O.R. proc for malignancy w CC/MCC	1.5300	3.8	6.1
+716	No	No	12	SURG	Other male reproductive system O.R. proc for malignancy w/o CC/MCC	1.1310	1.3	1.5
+717	No	No	12	SURG	Other male reproductive system O.R. proc exc malignancy w CC/MCC	1.5653	5.0	7.5
+718	No	No	12	SURG	Other male reproductive system O.R. proc exc malignancy w/o CC/MCC	1.0329	2.1	2.7
+722	No	No	12	MED	"Malignancy, male reproductive system w MCC"	1.2827	5.6	7.4
+723	No	No	12	MED	"Malignancy, male reproductive system w CC"	1.0603	4.2	5.4
+724	No	No	12	MED	"Malignancy, male reproductive system w/o CC/MCC"	0.7677	2.5	3.3
+725	No	No	12	MED	Benign prostatic hypertrophy w MCC	0.9071	4.4	5.7
+726	No	No	12	MED	Benign prostatic hypertrophy w/o MCC	0.6886	2.8	3.5
+727	No	No	12	MED	Inflammation of the male reproductive system w MCC	1.0083	5.1	6.5
+728	No	No	12	MED	Inflammation of the male reproductive system w/o MCC	0.7241	3.3	4.0
+729	No	No	12	MED	Other male reproductive system diagnoses w CC/MCC	0.9542	3.7	5.1
+730	No	No	12	MED	Other male reproductive system diagnoses w/o CC/MCC	0.7058	2.4	3.2
+734	No	No	13	SURG	"Pelvic evisceration, rad hysterectomy & rad vulvectomy w CC/MCC"	2.0185	5.8	7.6
+735	No	No	13	SURG	"Pelvic evisceration, rad hysterectomy & rad vulvectomy w/o CC/MCC"	1.3798	3.0	3.5
+736	No	No	13	SURG	Uterine & adnexa proc for ovarian or adnexal malignancy w MCC	3.2108	11.5	13.9
+737	No	No	13	SURG	Uterine & adnexa proc for ovarian or adnexal malignancy w CC	2.1022	6.2	7.4
+738	No	No	13	SURG	Uterine & adnexa proc for ovarian or adnexal malignancy w/o CC/MCC	1.6754	3.5	3.9
+739	No	No	13	SURG	"Uterine,adnexa proc for non-ovarian/adnexal malig w MCC"	2.2081	7.9	10.2
+740	No	No	13	SURG	"Uterine,adnexa proc for non-ovarian/adnexal malig w CC"	1.4577	4.4	5.2
+741	No	No	13	SURG	"Uterine,adnexa proc for non-ovarian/adnexal malig w/o CC/MCC"	1.0308	2.8	3.1
+742	No	No	13	SURG	Uterine & adnexa proc for non-malignancy w CC/MCC	1.2422	3.5	4.6
+743	No	No	13	SURG	Uterine & adnexa proc for non-malignancy w/o CC/MCC	0.8672	2.1	2.3
+744	No	No	13	SURG	"D&C, conization, laparascopy & tubal interruption w CC/MCC"	1.1896	4.0	5.8
+745	No	No	13	SURG	"D&C, conization, laparascopy & tubal interruption w/o CC/MCC"	0.8660	2.1	2.5
+746	No	No	13	SURG	"Vagina, cervix & vulva procedures w CC/MCC"	1.0488	3.0	4.1
+747	No	No	13	SURG	"Vagina, cervix & vulva procedures w/o CC/MCC"	0.8499	1.7	1.9
+748	No	No	13	SURG	Female reproductive system reconstructive procedures	0.7916	1.5	1.8
+749	No	No	13	SURG	Other female reproductive system O.R. procedures w CC/MCC	2.2813	7.1	9.8
+750	No	No	13	SURG	Other female reproductive system O.R. procedures w/o CC/MCC	1.4993	2.6	3.3
+754	No	No	13	MED	"Malignancy, female reproductive system w MCC"	1.5596	6.4	8.9
+755	No	No	13	MED	"Malignancy, female reproductive system w CC"	1.1608	4.2	5.6
+756	No	No	13	MED	"Malignancy, female reproductive system w/o CC/MCC"	0.7702	2.5	3.3
+757	No	No	13	MED	"Infections, female reproductive system w MCC"	1.4328	6.8	8.9
+758	No	No	13	MED	"Infections, female reproductive system w CC"	1.1147	4.9	6.1
+759	No	No	13	MED	"Infections, female reproductive system w/o CC/MCC"	0.9609	3.7	4.6
+760	No	No	13	MED	Menstrual & other female reproductive system disorders w CC/MCC	0.6910	2.9	3.8
+761	No	No	13	MED	Menstrual & other female reproductive system disorders w/o CC/MCC	0.5569	2.0	2.5
+765	No	No	14	SURG	Cesarean section w CC/MCC	0.9943	4.1	5.3
+766	No	No	14	SURG	Cesarean section w/o CC/MCC	0.7664	3.0	3.2
+767	No	No	14	SURG	Vaginal delivery w sterilization &/or D&C	0.7246	2.5	2.9
+768	No	No	14	SURG	Vaginal delivery w O.R. proc except steril &/or D&C	1.7348	4.7	5.8
+769	No	No	14	SURG	Postpartum & post abortion diagnoses w O.R. procedure	1.9114	3.2	5.7
+770	No	No	14	SURG	"Abortion w D&C, aspiration curettage or hysterotomy"	0.7336	1.6	2.6
+774	No	No	14	MED	Vaginal delivery w complicating diagnoses	0.5914	2.6	3.2
+775	No	No	14	MED	Vaginal delivery w/o complicating diagnoses	0.4461	2.1	2.3
+776	No	No	14	MED	Postpartum & post abortion diagnoses w/o O.R. procedure	0.6460	2.6	3.5
+777	No	No	14	MED	Ectopic pregnancy	0.7087	1.8	2.1
+778	No	No	14	MED	Threatened abortion	0.3744	2.0	2.8
+779	No	No	14	MED	Abortion w/o D&C	0.6013	1.7	2.6
+780	No	No	14	MED	False labor	0.2845	1.3	2.7
+781	No	No	14	MED	Other antepartum diagnoses w medical complications	0.5689	2.7	3.9
+782	No	No	14	MED	Other antepartum diagnoses w/o medical complications	0.4297	1.7	2.8
+789	No	No	15	MED	"Neonates, died or transferred to another acute care facility"	1.4250	*	*
+790	No	No	15	MED	"Extreme immaturity or respiratory distress syndrome, neonate"	4.6990	*	*
+791	No	No	15	MED	Prematurity w major problems	3.2093	*	*
+792	No	No	15	MED	Prematurity w/o major problems	1.9364	*	*
+793	No	No	15	MED	Full term neonate w major problems	3.2966	*	*
+794	No	No	15	MED	Neonate w other significant problems	1.1668	*	*
+795	No	No	15	MED	Normal newborn	0.1580	*	*
+799	No	No	16	SURG	Splenectomy w MCC	3.9513	10.7	14.3
+800	No	No	16	SURG	Splenectomy w CC	2.7617	6.4	8.2
+801	No	No	16	SURG	Splenectomy w/o CC/MCC	2.3252	3.7	4.8
+802	No	No	16	SURG	Other O.R. proc of the blood & blood forming organs w MCC	2.7940	9.1	12.8
+803	No	No	16	SURG	Other O.R. proc of the blood & blood forming organs w CC	1.8259	4.7	6.5
+804	No	No	16	SURG	Other O.R. proc of the blood & blood forming organs w/o CC/MCC	1.4754	2.4	3.2
+808	No	No	16	MED	Major hematol/immun diag exc sickle cell crisis & coagul w MCC	1.6171	6.0	8.0
+809	No	No	16	MED	Major hematol/immun diag exc sickle cell crisis & coagul w CC	1.2031	3.9	5.0
+810	No	No	16	MED	Major hematol/immun diag exc sickle cell crisis & coagul w/o CC/MCC	1.0741	3.1	3.9
+811	No	No	16	MED	Red blood cell disorders w MCC	1.0006	4.0	5.5
+812	No	No	16	MED	Red blood cell disorders w/o MCC	0.7780	2.8	3.7
+813	No	No	16	MED	Coagulation disorders	1.3426	3.8	5.2
+814	No	No	16	MED	Reticuloendothelial & immunity disorders w MCC	1.3226	5.3	7.2
+815	No	No	16	MED	Reticuloendothelial & immunity disorders w CC	1.0233	3.9	4.9
+816	No	No	16	MED	Reticuloendothelial & immunity disorders w/o CC/MCC	0.7990	2.7	3.4
+820	No	No	17	SURG	Lymphoma & leukemia w major O.R. procedure w MCC	4.4970	13.8	18.4
+821	No	No	17	SURG	Lymphoma & leukemia w major O.R. procedure w CC	2.6847	5.4	7.8
+822	No	No	17	SURG	Lymphoma & leukemia w major O.R. procedure w/o CC/MCC	1.5989	2.7	3.7
+823	No	No	17	SURG	Lymphoma & non-acute leukemia w other O.R. proc w MCC	3.5188	12.0	15.4
+824	No	No	17	SURG	Lymphoma & non-acute leukemia w other O.R. proc w CC	2.5164	6.6	8.8
+825	No	No	17	SURG	Lymphoma & non-acute leukemia w other O.R. proc w/o CC/MCC	1.6201	3.3	4.7
+826	No	No	17	SURG	Myeloprolif disord or poorly diff neopl w maj O.R. proc w MCC	3.9780	13.0	17.4
+827	No	No	17	SURG	Myeloprolif disord or poorly diff neopl w maj O.R. proc w CC	2.4230	5.7	7.5
+828	No	No	17	SURG	Myeloprolif disord or poorly diff neopl w maj O.R. proc w/o CC/MCC	1.5109	2.9	3.7
+829	No	No	17	SURG	Myeloprolif disord or poorly diff neopl w other O.R. proc w CC/MCC	2.4894	6.9	10.5
+830	No	No	17	SURG	Myeloprolif disord or poorly diff neopl w other O.R. proc w/o CC/MCC	1.6396	2.5	3.5
+834	No	No	17	MED	Acute leukemia w/o major O.R. procedure w MCC	3.6361	8.9	14.7
+835	No	No	17	MED	Acute leukemia w/o major O.R. procedure w CC	2.5626	5.3	8.2
+836	No	No	17	MED	Acute leukemia w/o major O.R. procedure w/o CC/MCC	2.1785	3.4	5.1
+837	No	No	17	MED	Chemo w acute leukemia as sdx or w high dose chemo agent w MCC	4.7788	17.2	22.7
+838	No	No	17	MED	Chemo w acute leukemia as sdx w CC or high dose chemo agent	2.9919	6.2	9.0
+839	No	No	17	MED	Chemo w acute leukemia as sdx w/o CC/MCC	2.3980	4.9	6.1
+840	Yes	No	17	MED	Lymphoma & non-acute leukemia w MCC	2.1454	6.8	9.6
+841	Yes	No	17	MED	Lymphoma & non-acute leukemia w CC	1.6444	5.0	6.6
+842	Yes	No	17	MED	Lymphoma & non-acute leukemia w/o CC/MCC	1.2188	3.2	4.3
+843	No	No	17	MED	Other myeloprolif dis or poorly diff neopl diag w MCC	1.6341	6.3	8.7
+844	No	No	17	MED	Other myeloprolif dis or poorly diff neopl diag w CC	1.2403	4.5	6.0
+845	No	No	17	MED	Other myeloprolif dis or poorly diff neopl diag w/o CC/MCC	0.9664	3.3	4.3
+846	No	No	17	MED	Chemotherapy w/o acute leukemia as secondary diagnosis w MCC	1.6523	5.8	8.5
+847	No	No	17	MED	Chemotherapy w/o acute leukemia as secondary diagnosis w CC	1.0296	2.7	3.3
+848	No	No	17	MED	Chemotherapy w/o acute leukemia as secondary diagnosis w/o CC/MCC	0.9116	2.3	2.9
+849	No	No	17	MED	Radiotherapy	1.2663	4.3	6.0
+853	Yes	No	18	SURG	Infectious & parasitic diseases w O.R. procedure w MCC	5.1840	12.8	16.8
+854	Yes	No	18	SURG	Infectious & parasitic diseases w O.R. procedure w CC	3.9291	9.1	11.2
+855	Yes	No	18	SURG	Infectious & parasitic diseases w O.R. procedure w/o CC/MCC	3.3662	5.6	7.3
+856	Yes	No	18	SURG	Postoperative or post-traumatic infections w O.R. proc w MCC	3.9257	12.1	16.2
+857	Yes	No	18	SURG	Postoperative or post-traumatic infections w O.R. proc w CC	2.4919	6.8	8.9
+858	Yes	No	18	SURG	Postoperative or post-traumatic infections w O.R. proc w/o CC/MCC	2.0996	4.7	6.0
+862	Yes	No	18	MED	Postoperative & post-traumatic infections w MCC	1.5454	6.2	8.3
+863	Yes	No	18	MED	Postoperative & post-traumatic infections w/o MCC	1.0560	4.2	5.2
+864	No	No	18	MED	Fever of unknown origin	0.8240	3.2	4.1
+865	No	No	18	MED	Viral illness w MCC	1.2074	4.9	6.8
+866	No	No	18	MED	Viral illness w/o MCC	0.7527	2.8	3.5
+867	Yes	No	18	MED	Other infectious & parasitic diseases diagnoses w MCC	2.1971	7.2	9.9
+868	Yes	No	18	MED	Other infectious & parasitic diseases diagnoses w CC	1.5258	4.6	5.9
+869	Yes	No	18	MED	Other infectious & parasitic diseases diagnoses w/o CC/MCC	1.3611	3.5	4.4
+870	Yes	No	18	MED	Septicemia w MV 96+ hours	5.7579	12.6	15.3
+871	Yes	No	18	MED	Septicemia w/o MV 96+ hours w MCC	1.7484	5.6	7.7
+872	Yes	No	18	MED	Septicemia w/o MV 96+ hours w/o MCC	1.3783	4.7	5.8
+876	No	No	19	SURG	O.R. procedure w principal diagnoses of mental illness	2.4632	6.9	11.4
+880	No	No	19	MED	Acute adjustment reaction & psychosocial dysfunction	0.6085	2.4	3.2
+881	No	No	19	MED	Depressive neuroses	0.5198	3.1	4.2
+882	No	No	19	MED	Neuroses except depressive	0.5685	3.1	4.4
+883	No	No	19	MED	Disorders of personality & impulse control	0.8999	4.6	7.4
+884	Yes	No	19	MED	Organic disturbances & mental retardation	0.8431	4.0	5.4
+885	No	No	19	MED	Psychoses	0.7783	5.5	7.6
+886	No	No	19	MED	Behavioral & developmental disorders	0.6983	4.0	5.9
+887	No	No	19	MED	Other mental disorder diagnoses	0.8341	3.1	4.6
+894	No	No	20	MED	"Alcohol/drug abuse or dependence, left ama"	0.3571	2.1	3.0
+895	No	No	20	MED	Alcohol/drug abuse or dependence w rehabilitation therapy	0.7557	8.2	10.5
+896	Yes	No	20	MED	Alcohol/drug abuse or dependence w/o rehabilitation therapy w MCC	1.0419	4.8	6.6
+897	Yes	No	20	MED	Alcohol/drug abuse or dependence w/o rehabilitation therapy w/o MCC	0.6145	3.3	4.1
+901	No	No	21	SURG	Wound debridements for injuries w MCC	2.8534	9.3	14.4
+902	No	No	21	SURG	Wound debridements for injuries w CC	1.8611	5.7	7.9
+903	No	No	21	SURG	Wound debridements for injuries w/o CC/MCC	1.4966	3.5	4.9
+904	No	No	21	SURG	Skin grafts for injuries w CC/MCC	2.5246	7.2	12.2
+905	No	No	21	SURG	Skin grafts for injuries w/o CC/MCC	1.5926	3.5	4.7
+906	No	No	21	SURG	Hand procedures for injuries	0.9803	2.2	3.3
+907	Yes	No	21	SURG	Other O.R. procedures for injuries w MCC	3.1030	8.1	11.7
+908	Yes	No	21	SURG	Other O.R. procedures for injuries w CC	2.1865	5.0	6.9
+909	Yes	No	21	SURG	Other O.R. procedures for injuries w/o CC/MCC	1.4112	2.7	3.6
+913	No	No	21	MED	Traumatic injury w MCC	1.0631	4.6	6.2
+914	No	No	21	MED	Traumatic injury w/o MCC	0.6890	2.7	3.4
+915	No	No	21	MED	Allergic reactions w MCC	0.8660	3.3	4.7
+916	No	No	21	MED	Allergic reactions w/o MCC	0.4986	1.7	2.1
+917	Yes	No	21	MED	Poisoning & toxic effects of drugs w MCC	1.1717	3.7	5.2
+918	Yes	No	21	MED	Poisoning & toxic effects of drugs w/o MCC	0.6886	2.1	2.7
+919	No	No	21	MED	Complications of treatment w MCC	1.2830	4.4	6.2
+920	No	No	21	MED	Complications of treatment w CC	0.9797	3.2	4.3
+921	No	No	21	MED	Complications of treatment w/o CC/MCC	0.7101	2.3	2.9
+922	No	No	21	MED	"Other injury, poisoning & toxic effect diag w MCC"	1.1338	4.1	6.0
+923	No	No	21	MED	"Other injury, poisoning & toxic effect diag w/o MCC"	0.7071	2.4	3.3
+927	No	No	22	SURG	Extensive burns or full thickness burns w MV 96+ hrs w skin graft	12.3042	23.0	28.8
+928	No	No	22	SURG	Full thickness burn w skin graft or inhal inj w CC/MCC	4.3956	12.1	16.2
+929	No	No	22	SURG	Full thickness burn w skin graft or inhal inj w/o CC/MCC	2.3533	5.6	7.7
+933	No	No	22	MED	Extensive burns or full thickness burns w MV 96+ hrs w/o skin graft	2.6626	2.7	5.9
+934	No	No	22	MED	Full thickness burn w/o skin grft or inhal inj	1.3745	4.7	6.8
+935	No	No	22	MED	Non-extensive burns	1.1605	3.7	5.5
+939	No	No	23	SURG	O.R. proc w diagnoses of other contact w health services w MCC	2.1672	7.5	10.9
+940	No	No	23	SURG	O.R. proc w diagnoses of other contact w health services w CC	1.6823	4.4	6.4
+941	No	No	23	SURG	O.R. proc w diagnoses of other contact w health services w/o CC/MCC	1.3531	2.3	3.0
+945	Yes	No	23	MED	Rehabilitation w CC/MCC	1.1005	8.4	10.3
+946	Yes	No	23	MED	Rehabilitation w/o CC/MCC	1.0143	7.0	7.9
+947	Yes	No	23	MED	Signs & symptoms w MCC	0.8767	3.8	5.0
+948	Yes	No	23	MED	Signs & symptoms w/o MCC	0.6542	2.7	3.4
+949	No	No	23	MED	Aftercare w CC/MCC	0.7323	2.5	4.1
+950	No	No	23	MED	Aftercare w/o CC/MCC	0.5948	2.4	3.4
+951	No	No	23	MED	Other factors influencing health status	0.6109	2.1	3.8
+955	No	No	24	SURG	Craniotomy for multiple significant trauma	5.1028	8.5	12.2
+956	Yes	Yes	24	SURG	"Limb reattachment, hip & femur proc for multiple significant trauma"	3.4854	7.6	9.5
+957	No	No	24	SURG	Other O.R. procedures for multiple significant trauma w MCC	5.7960	10.5	16.0
+958	No	No	24	SURG	Other O.R. procedures for multiple significant trauma w CC	4.4786	7.9	10.5
+959	No	No	24	SURG	Other O.R. procedures for multiple significant trauma w/o CC/MCC	3.6988	4.9	6.1
+963	No	No	24	MED	Other multiple significant trauma w MCC	2.2985	6.3	9.3
+964	No	No	24	MED	Other multiple significant trauma w CC	1.7015	5.0	6.3
+965	No	No	24	MED	Other multiple significant trauma w/o CC/MCC	1.4108	3.3	4.1
+969	No	No	25	SURG	HIV w extensive O.R. procedure w MCC	5.1395	13.5	18.7
+970	No	No	25	SURG	HIV w extensive O.R. procedure w/o MCC	3.6849	6.6	9.5
+974	No	No	25	MED	HIV w major related condition w MCC	2.1382	7.4	10.4
+975	No	No	25	MED	HIV w major related condition w CC	1.5918	5.3	7.3
+976	No	No	25	MED	HIV w major related condition w/o CC/MCC	1.3357	3.8	4.9
+977	No	No	25	MED	HIV w or w/o other related condition	1.0387	3.8	5.3
+981	Yes	No		SURG	Extensive O.R. procedure unrelated to principal diagnosis w MCC	4.5168	11.9	15.3
+982	Yes	No		SURG	Extensive O.R. procedure unrelated to principal diagnosis w CC	3.5417	7.8	10.0
+983	Yes	No		SURG	Extensive O.R. procedure unrelated to principal diagnosis w/o CC/MCC	2.9737	3.9	5.4
+984	No	No		SURG	Prostatic O.R. procedure unrelated to principal diagnosis w MCC	2.7217	11.7	14.6
+985	No	No		SURG	Prostatic O.R. procedure unrelated to principal diagnosis w CC	2.0865	7.4	9.7
+986	No	No		SURG	Prostatic O.R. procedure unrelated to principal diagnosis w/o CC/MCC	1.6706	3.5	5.1
+987	Yes	No		SURG	Non-extensive O.R. proc unrelated to principal diagnosis w MCC	2.8500	9.9	13.2
+988	Yes	No		SURG	Non-extensive O.R. proc unrelated to principal diagnosis w CC	2.0134	5.9	8.0
+989	Yes	No		SURG	Non-extensive O.R. proc unrelated to principal diagnosis w/o CC/MCC	1.6310	2.9	4.1
+998	No	No		**	Principal diagnosis invalid as discharge diagnosis	#N/A	*	*
+999	No	No		**	Ungroupable	#N/A	*	*
+MS-DRGs 998 and 999 contain cases that could not be assigned to valid DRGs.								
+"Note: If there is no value or asterisk in either the geometric mean length of stay or the arithmetic mean length of stay columns, the volume of cases is insufficient to determine a meaningful computation of these statistics. "								

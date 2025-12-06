@@ -1,0 +1,750 @@
+﻿MS-DRG,FY09 Final Rule Post-Acute DRG,FY09 Final Rule Special Pay DRG,MDC,TYPE,MS-DRG Title,Weights,Geometric mean LOS,Arithmetic mean LOS
+001,No,No,PRE,SURG,Heart transplant or implant of heart assist system w MCC,23.6701,29.6,41.1
+002,No,No,PRE,SURG,Heart transplant or implant of heart assist system w/o MCC,12.8157,18.7,25.3
+003,Yes,No,PRE,SURG,"ECMO or trach w MV 96+ hrs or PDX exc face, mouth & neck w maj O.R.",18.3694,32.6,39.8
+004,Yes,No,PRE,SURG,"Trach w MV 96+ hrs or PDX exc face, mouth & neck w/o maj O.R.",11.1366,23.5,28.9
+005,No,No,PRE,SURG,Liver transplant w MCC or intestinal transplant,10.8180,16.1,21.5
+006,No,No,PRE,SURG,Liver transplant w/o MCC,4.8839,9.0,10.5
+007,No,No,PRE,SURG,Lung transplant,9.5998,15.8,19.6
+008,No,No,PRE,SURG,Simultaneous pancreas/kidney transplant,4.8811,10.1,11.9
+009,No,No,PRE,SURG,Bone marrow transplant,6.6411,18.3,22.0
+010,No,No,PRE,SURG,Pancreas transplant,3.7246,9.1,10.8
+011,No,No,PRE,SURG,"Tracheostomy for face,mouth & neck diagnoses w MCC",4.8834,13.1,16.7
+012,No,No,PRE,SURG,"Tracheostomy for face,mouth & neck diagnoses w CC",3.0527,8.8,10.7
+013,No,No,PRE,SURG,"Tracheostomy for face,mouth & neck diagnoses w/o CC/MCC",1.8966,5.9,6.9
+020,No,No,01,SURG,Intracranial vascular procedures w PDX hemorrhage w MCC,8.2920,14.8,18.3
+021,No,No,01,SURG,Intracranial vascular procedures w PDX hemorrhage w CC,6.3596,13.7,15.5
+022,No,No,01,SURG,Intracranial vascular procedures w PDX hemorrhage w/o CC/MCC,4.1535,7.6,9.3
+023,No,No,01,SURG,Cranio w major dev impl/acute complex CNS PDX w MCC or chemo implant,5.0584,8.9,12.7
+024,No,No,01,SURG,Cranio w major dev impl/acute complex CNS PDX w/o MCC,3.4597,6.2,9.0
+025,Yes,No,01,SURG,Craniotomy & endovascular intracranial procedures w MCC,5.0109,9.9,13.0
+026,Yes,No,01,SURG,Craniotomy & endovascular intracranial procedures w CC,3.0058,6.4,8.2
+027,Yes,No,01,SURG,Craniotomy & endovascular intracranial procedures w/o CC/MCC,2.1029,3.5,4.5
+028,Yes,Yes,01,SURG,Spinal procedures w MCC,5.1919,10.7,14.3
+029,Yes,Yes,01,SURG,Spinal procedures w CC or spinal neurostimulators,2.7943,5.1,7.1
+030,Yes,Yes,01,SURG,Spinal procedures w/o CC/MCC,1.5385,2.8,3.7
+031,Yes,No,01,SURG,Ventricular shunt procedures w MCC,4.3861,9.3,13.1
+032,Yes,No,01,SURG,Ventricular shunt procedures w CC,1.9518,4.0,6.0
+033,Yes,No,01,SURG,Ventricular shunt procedures w/o CC/MCC,1.3289,2.3,3.0
+034,No,No,01,SURG,Carotid artery stent procedure w MCC,3.2220,4.6,7.3
+035,No,No,01,SURG,Carotid artery stent procedure w CC,2.0227,2.1,3.3
+036,No,No,01,SURG,Carotid artery stent procedure w/o CC/MCC,1.5673,1.3,1.6
+037,No,No,01,SURG,Extracranial procedures w MCC,3.0263,5.9,8.6
+038,No,No,01,SURG,Extracranial procedures w CC,1.5525,2.5,3.8
+039,No,No,01,SURG,Extracranial procedures w/o CC/MCC,1.0005,1.5,1.8
+040,Yes,Yes,01,SURG,Periph/cranial nerve & other nerv syst proc w MCC,3.9645,9.7,13.3
+041,Yes,Yes,01,SURG,Periph/cranial nerve & other nerv syst proc w CC or periph neurostim,2.1518,5.3,7.2
+042,Yes,Yes,01,SURG,Periph/cranial nerve & other nerv syst proc w/o CC/MCC,1.6759,2.5,3.6
+052,No,No,01,MED,Spinal disorders & injuries w CC/MCC,1.6216,4.8,6.7
+053,No,No,01,MED,Spinal disorders & injuries w/o CC/MCC,0.8669,3.3,4.0
+054,Yes,No,01,MED,Nervous system neoplasms w MCC,1.5860,5.2,7.0
+055,Yes,No,01,MED,Nervous system neoplasms w/o MCC,1.0828,3.8,5.1
+056,Yes,No,01,MED,Degenerative nervous system disorders w MCC,1.6349,5.7,7.8
+057,Yes,No,01,MED,Degenerative nervous system disorders w/o MCC,0.8802,3.9,5.0
+058,No,No,01,MED,Multiple sclerosis & cerebellar ataxia w MCC,1.5706,5.7,7.7
+059,No,No,01,MED,Multiple sclerosis & cerebellar ataxia w CC,0.9444,4.2,5.1
+060,No,No,01,MED,Multiple sclerosis & cerebellar ataxia w/o CC/MCC,0.6994,3.4,4.0
+061,No,No,01,MED,Acute ischemic stroke w use of thrombolytic agent w MCC,2.8717,6.8,8.9
+062,No,No,01,MED,Acute ischemic stroke w use of thrombolytic agent w CC,1.9537,5.3,6.3
+063,No,No,01,MED,Acute ischemic stroke w use of thrombolytic agent w/o CC/MCC,1.5143,3.9,4.5
+064,Yes,No,01,MED,Intracranial hemorrhage or cerebral infarction w MCC,1.8450,5.5,7.5
+065,Yes,No,01,MED,Intracranial hemorrhage or cerebral infarction w CC,1.1760,4.3,5.2
+066,Yes,No,01,MED,Intracranial hemorrhage or cerebral infarction w/o CC/MCC,0.8439,3.1,3.7
+067,No,No,01,MED,Nonspecific CVA & precerebral occlusion w/o infarct w MCC,1.3873,4.4,5.8
+068,No,No,01,MED,Nonspecific CVA & precerebral occlusion w/o infarct w/o MCC,0.8457,2.7,3.4
+069,No,No,01,MED,Transient ischemia,0.7157,2.4,3.0
+070,Yes,No,01,MED,Nonspecific cerebrovascular disorders w MCC,1.8246,6.0,7.9
+071,Yes,No,01,MED,Nonspecific cerebrovascular disorders w CC,1.1361,4.4,5.6
+072,Yes,No,01,MED,Nonspecific cerebrovascular disorders w/o CC/MCC,0.7650,2.8,3.5
+073,No,No,01,MED,Cranial & peripheral nerve disorders w MCC,1.3082,4.7,6.2
+074,No,No,01,MED,Cranial & peripheral nerve disorders w/o MCC,0.8423,3.4,4.3
+075,No,No,01,MED,Viral meningitis w CC/MCC,1.6730,5.7,7.3
+076,No,No,01,MED,Viral meningitis w/o CC/MCC,0.8595,3.4,4.1
+077,No,No,01,MED,Hypertensive encephalopathy w MCC,1.6233,5.2,6.7
+078,No,No,01,MED,Hypertensive encephalopathy w CC,1.0082,3.6,4.4
+079,No,No,01,MED,Hypertensive encephalopathy w/o CC/MCC,0.7398,2.8,3.4
+080,No,No,01,MED,Nontraumatic stupor & coma w MCC,1.1032,3.8,5.1
+081,No,No,01,MED,Nontraumatic stupor & coma w/o MCC,0.7104,2.7,3.5
+082,No,No,01,MED,"Traumatic stupor & coma, coma >1 hr w MCC",2.0201,3.7,6.4
+083,No,No,01,MED,"Traumatic stupor & coma, coma >1 hr w CC",1.2993,3.7,4.9
+084,No,No,01,MED,"Traumatic stupor & coma, coma >1 hr w/o CC/MCC",0.8753,2.4,3.1
+085,Yes,No,01,MED,"Traumatic stupor & coma, coma <1 hr w MCC",2.0908,5.5,7.6
+086,Yes,No,01,MED,"Traumatic stupor & coma, coma <1 hr w CC",1.2072,3.9,5.0
+087,Yes,No,01,MED,"Traumatic stupor & coma, coma <1 hr w/o CC/MCC",0.8011,2.6,3.3
+088,No,No,01,MED,Concussion w MCC,1.5829,4.2,5.9
+089,No,No,01,MED,Concussion w CC,0.9186,3.0,3.7
+090,No,No,01,MED,Concussion w/o CC/MCC,0.6751,2.0,2.5
+091,Yes,No,01,MED,Other disorders of nervous system w MCC,1.5747,4.6,6.4
+092,Yes,No,01,MED,Other disorders of nervous system w CC,0.9218,3.5,4.5
+093,Yes,No,01,MED,Other disorders of nervous system w/o CC/MCC,0.6777,2.6,3.2
+094,No,No,01,MED,Bacterial & tuberculous infections of nervous system w MCC,3.3505,9.2,11.8
+095,No,No,01,MED,Bacterial & tuberculous infections of nervous system w CC,2.1935,6.9,8.6
+096,No,No,01,MED,Bacterial & tuberculous infections of nervous system w/o CC/MCC,1.8217,5.0,6.2
+097,No,No,01,MED,Non-bacterial infect of nervous sys exc viral meningitis w MCC,3.2073,9.9,12.6
+098,No,No,01,MED,Non-bacterial infect of nervous sys exc viral meningitis w CC,1.8504,6.7,8.3
+099,No,No,01,MED,Non-bacterial infect of nervous sys exc viral meningitis w/o CC/MCC,1.2593,4.7,5.9
+100,Yes,No,01,MED,Seizures w MCC,1.5069,4.7,6.3
+101,Yes,No,01,MED,Seizures w/o MCC,0.7617,2.9,3.7
+102,No,No,01,MED,Headaches w MCC,0.9584,3.3,4.5
+103,No,No,01,MED,Headaches w/o MCC,0.6239,2.5,3.1
+113,No,No,02,SURG,Orbital procedures w CC/MCC,1.5787,3.8,5.6
+114,No,No,02,SURG,Orbital procedures w/o CC/MCC,0.8289,1.9,2.6
+115,No,No,02,SURG,Extraocular procedures except orbit,1.0675,3.3,4.3
+116,No,No,02,SURG,Intraocular procedures w CC/MCC,1.1346,2.6,4.1
+117,No,No,02,SURG,Intraocular procedures w/o CC/MCC,0.6699,1.6,2.2
+121,No,No,02,MED,Acute major eye infections w CC/MCC,0.9590,4.3,5.5
+122,No,No,02,MED,Acute major eye infections w/o CC/MCC,0.6148,3.3,4.0
+123,No,No,02,MED,Neurological eye disorders,0.6876,2.3,2.9
+124,No,No,02,MED,Other disorders of the eye w MCC,1.0642,3.9,5.3
+125,No,No,02,MED,Other disorders of the eye w/o MCC,0.6689,2.8,3.5
+129,No,No,03,SURG,Major head & neck procedures w CC/MCC or major device,2.0109,3.7,5.2
+130,No,No,03,SURG,Major head & neck procedures w/o CC/MCC,1.1513,2.3,2.9
+131,No,No,03,SURG,Cranial/facial procedures w CC/MCC,1.9933,4.0,5.8
+132,No,No,03,SURG,Cranial/facial procedures w/o CC/MCC,1.0981,2.1,2.6
+133,No,No,03,SURG,"Other ear, nose, mouth & throat O.R. procedures w CC/MCC",1.5552,3.6,5.3
+134,No,No,03,SURG,"Other ear, nose, mouth & throat O.R. procedures w/o CC/MCC",0.8213,1.7,2.2
+135,No,No,03,SURG,Sinus & mastoid procedures w CC/MCC,1.6832,3.8,5.9
+136,No,No,03,SURG,Sinus & mastoid procedures w/o CC/MCC,0.8974,1.7,2.3
+137,No,No,03,SURG,Mouth procedures w CC/MCC,1.2619,3.8,5.4
+138,No,No,03,SURG,Mouth procedures w/o CC/MCC,0.7366,1.9,2.5
+139,No,No,03,SURG,Salivary gland procedures,0.8147,1.4,1.8
+146,No,No,03,MED,"Ear, nose, mouth & throat malignancy w MCC",2.0472,6.6,9.4
+147,No,No,03,MED,"Ear, nose, mouth & throat malignancy w CC",1.2450,4.3,6.1
+148,No,No,03,MED,"Ear, nose, mouth & throat malignancy w/o CC/MCC",0.8206,2.7,3.8
+149,No,No,03,MED,Dysequilibrium,0.6109,2.2,2.7
+150,No,No,03,MED,Epistaxis w MCC,1.2254,3.7,5.2
+151,No,No,03,MED,Epistaxis w/o MCC,0.6034,2.3,2.9
+152,No,No,03,MED,Otitis media & URI w MCC,0.8994,3.4,4.5
+153,No,No,03,MED,Otitis media & URI w/o MCC,0.5974,2.6,3.2
+154,No,No,03,MED,"Other ear, nose, mouth & throat diagnoses w MCC",1.3776,4.6,6.3
+155,No,No,03,MED,"Other ear, nose, mouth & throat diagnoses w CC",0.8784,3.5,4.4
+156,No,No,03,MED,"Other ear, nose, mouth & throat diagnoses w/o CC/MCC",0.6312,2.5,3.2
+157,No,No,03,MED,Dental & oral diseases w MCC,1.4746,4.6,6.6
+158,No,No,03,MED,Dental & oral diseases w CC,0.8615,3.4,4.5
+159,No,No,03,MED,Dental & oral diseases w/o CC/MCC,0.5966,2.4,3.0
+163,Yes,No,04,SURG,Major chest procedures w MCC,4.9978,12.2,15.0
+164,Yes,No,04,SURG,Major chest procedures w CC,2.5953,6.7,8.1
+165,Yes,No,04,SURG,Major chest procedures w/o CC/MCC,1.8036,4.3,5.1
+166,Yes,No,04,SURG,Other resp system O.R. procedures w MCC,3.6912,10.0,12.9
+167,Yes,No,04,SURG,Other resp system O.R. procedures w CC,2.0264,6.3,8.0
+168,Yes,No,04,SURG,Other resp system O.R. procedures w/o CC/MCC,1.3433,3.9,5.2
+175,Yes,No,04,MED,Pulmonary embolism w MCC,1.5796,6.0,7.3
+176,Yes,No,04,MED,Pulmonary embolism w/o MCC,1.0713,4.6,5.3
+177,Yes,No,04,MED,Respiratory infections & inflammations w MCC,2.0393,7.2,9.1
+178,Yes,No,04,MED,Respiratory infections & inflammations w CC,1.4983,6.0,7.4
+179,Yes,No,04,MED,Respiratory infections & inflammations w/o CC/MCC,1.0419,4.5,5.6
+180,No,No,04,MED,Respiratory neoplasms w MCC,1.6950,6.0,7.9
+181,No,No,04,MED,Respiratory neoplasms w CC,1.2316,4.5,5.9
+182,No,No,04,MED,Respiratory neoplasms w/o CC/MCC,0.8736,3.2,4.2
+183,No,No,04,MED,Major chest trauma w MCC,1.5346,5.8,7.2
+184,No,No,04,MED,Major chest trauma w CC,0.9458,3.8,4.6
+185,No,No,04,MED,Major chest trauma w/o CC/MCC,0.6811,2.9,3.4
+186,Yes,No,04,MED,Pleural effusion w MCC,1.6252,5.7,7.4
+187,Yes,No,04,MED,Pleural effusion w CC,1.0942,4.1,5.3
+188,Yes,No,04,MED,Pleural effusion w/o CC/MCC,0.8133,3.1,4.0
+189,No,No,04,MED,Pulmonary edema & respiratory failure,1.3488,4.8,6.1
+190,Yes,No,04,MED,Chronic obstructive pulmonary disease w MCC,1.3030,5.0,6.3
+191,Yes,No,04,MED,Chronic obstructive pulmonary disease w CC,0.9757,4.1,5.0
+192,Yes,No,04,MED,Chronic obstructive pulmonary disease w/o CC/MCC,0.7254,3.3,4.0
+193,Yes,No,04,MED,Simple pneumonia & pleurisy w MCC,1.4327,5.4,6.7
+194,Yes,No,04,MED,Simple pneumonia & pleurisy w CC,1.0056,4.4,5.3
+195,Yes,No,04,MED,Simple pneumonia & pleurisy w/o CC/MCC,0.7316,3.5,4.1
+196,Yes,No,04,MED,Interstitial lung disease w MCC,1.6022,5.8,7.3
+197,Yes,No,04,MED,Interstitial lung disease w CC,1.0992,4.4,5.4
+198,Yes,No,04,MED,Interstitial lung disease w/o CC/MCC,0.8198,3.3,4.1
+199,No,No,04,MED,Pneumothorax w MCC,1.7401,6.4,8.3
+200,No,No,04,MED,Pneumothorax w CC,1.0107,3.9,5.1
+201,No,No,04,MED,Pneumothorax w/o CC/MCC,0.7403,3.1,4.1
+202,No,No,04,MED,Bronchitis & asthma w CC/MCC,0.8157,3.5,4.3
+203,No,No,04,MED,Bronchitis & asthma w/o CC/MCC,0.5956,2.8,3.4
+204,No,No,04,MED,Respiratory signs & symptoms,0.6548,2.2,2.9
+205,Yes,No,04,MED,Other respiratory system diagnoses w MCC,1.2363,4.0,5.5
+206,Yes,No,04,MED,Other respiratory system diagnoses w/o MCC,0.7289,2.7,3.4
+207,Yes,No,04,MED,Respiratory system diagnosis w ventilator support 96+ hours,5.1055,12.8,15.1
+208,No,No,04,MED,Respiratory system diagnosis w ventilator support <96 hours,2.1801,5.2,7.2
+215,No,No,05,SURG,Other heart assist system implant,12.2516,7.6,14.0
+216,Yes,No,05,SURG,Cardiac valve & oth maj cardiothoracic proc w card cath w MCC,10.0943,15.7,18.4
+217,Yes,No,05,SURG,Cardiac valve & oth maj cardiothoracic proc w card cath w CC,6.9900,10.9,12.3
+218,Yes,No,05,SURG,Cardiac valve & oth maj cardiothoracic proc w card cath w/o CC/MCC,5.4211,8.3,9.1
+219,Yes,Yes,05,SURG,Cardiac valve & oth maj cardiothoracic proc w/o card cath w MCC,8.0329,11.4,14.0
+220,Yes,Yes,05,SURG,Cardiac valve & oth maj cardiothoracic proc w/o card cath w CC,5.2799,7.6,8.6
+221,Yes,Yes,05,SURG,Cardiac valve & oth maj cardiothoracic proc w/o card cath w/o CC/MCC,4.3869,6.0,6.4
+222,No,No,05,SURG,Cardiac defib implant w cardiac cath w AMI/HF/shock w MCC,8.6466,10.7,13.1
+223,No,No,05,SURG,Cardiac defib implant w cardiac cath w AMI/HF/shock w/o MCC,6.2865,4.6,6.3
+224,No,No,05,SURG,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w MCC,7.9521,9.2,11.4
+225,No,No,05,SURG,Cardiac defib implant w cardiac cath w/o AMI/HF/shock w/o MCC,5.9006,4.5,5.6
+226,No,No,05,SURG,Cardiac defibrillator implant w/o cardiac cath w MCC,6.7117,6.2,9.3
+227,No,No,05,SURG,Cardiac defibrillator implant w/o cardiac cath w/o MCC,4.9961,1.8,2.8
+228,Yes,No,05,SURG,Other cardiothoracic procedures w MCC,7.7863,12.1,14.7
+229,Yes,No,05,SURG,Other cardiothoracic procedures w CC,5.0213,7.9,9.1
+230,Yes,No,05,SURG,Other cardiothoracic procedures w/o CC/MCC,4.0573,5.6,6.5
+231,No,No,05,SURG,Coronary bypass w PTCA w MCC,7.6438,11.2,13.4
+232,No,No,05,SURG,Coronary bypass w PTCA w/o MCC,5.5291,8.2,9.2
+233,Yes,No,05,SURG,Coronary bypass w cardiac cath w MCC,7.0144,12.4,14.2
+234,Yes,No,05,SURG,Coronary bypass w cardiac cath w/o MCC,4.6075,8.3,8.9
+235,Yes,No,05,SURG,Coronary bypass w/o cardiac cath w MCC,5.6712,9.5,11.2
+236,Yes,No,05,SURG,Coronary bypass w/o cardiac cath w/o MCC,3.5945,6.1,6.6
+237,No,No,05,SURG,Major cardiovasc procedures w MCC or thoracic aortic aneurysm repair,5.0741,7.5,10.8
+238,No,No,05,SURG,Major cardiovasc procedures w/o MCC,2.8874,3.2,4.6
+239,Yes,No,05,SURG,Amputation for circ sys disorders exc upper limb & toe w MCC,4.5044,12.0,15.4
+240,Yes,No,05,SURG,Amputation for circ sys disorders exc upper limb & toe w CC,2.6674,8.3,10.4
+241,Yes,No,05,SURG,Amputation for circ sys disorders exc upper limb & toe w/o CC/MCC,1.5722,5.6,6.8
+242,Yes,No,05,SURG,Permanent cardiac pacemaker implant w MCC,3.7029,6.7,8.8
+243,Yes,No,05,SURG,Permanent cardiac pacemaker implant w CC,2.5887,3.8,5.1
+244,Yes,No,05,SURG,Permanent cardiac pacemaker implant w/o CC/MCC,2.0059,2.2,2.9
+245,No,No,05,SURG,AICD generator procedures,3.9842,2.1,3.2
+246,No,No,05,SURG,Perc cardiovasc proc w drug-eluting stent w MCC or 4+ vessels/stents,3.1468,3.6,5.3
+247,No,No,05,SURG,Perc cardiovasc proc w drug-eluting stent w/o MCC,1.9127,1.7,2.2
+248,No,No,05,SURG,Perc cardiovasc proc w non-drug-eluting stent w MCC or 4+ ves/stents,2.8046,4.2,6.0
+249,No,No,05,SURG,Perc cardiovasc proc w non-drug-eluting stent w/o MCC,1.6395,1.9,2.5
+250,No,No,05,SURG,Perc cardiovasc proc w/o coronary artery stent w MCC,2.9915,5.4,7.8
+251,No,No,05,SURG,Perc cardiovasc proc w/o coronary artery stent w/o MCC,1.6038,2.1,2.8
+252,No,No,05,SURG,Other vascular procedures w MCC,2.9550,5.5,8.6
+253,No,No,05,SURG,Other vascular procedures w CC,2.2545,4.1,6.0
+254,No,No,05,SURG,Other vascular procedures w/o CC/MCC,1.5426,2.0,2.7
+255,Yes,No,05,SURG,Upper limb & toe amputation for circ system disorders w MCC,2.4110,7.1,9.7
+256,Yes,No,05,SURG,Upper limb & toe amputation for circ system disorders w CC,1.5920,5.8,7.5
+257,Yes,No,05,SURG,Upper limb & toe amputation for circ system disorders w/o CC/MCC,1.0257,3.7,4.9
+258,No,No,05,SURG,Cardiac pacemaker device replacement w MCC,2.8325,5.4,7.4
+259,No,No,05,SURG,Cardiac pacemaker device replacement w/o MCC,1.6899,2.0,2.8
+260,No,No,05,SURG,Cardiac pacemaker revision except device replacement w MCC,3.4101,8.1,11.2
+261,No,No,05,SURG,Cardiac pacemaker revision except device replacement w CC,1.4380,3.0,4.2
+262,No,No,05,SURG,Cardiac pacemaker revision except device replacement w/o CC/MCC,1.0152,2.0,2.6
+263,No,No,05,SURG,Vein ligation & stripping,1.5415,3.4,5.4
+264,Yes,No,05,SURG,Other circulatory system O.R. procedures,2.5329,5.8,8.9
+265,No,No,05,SURG,AICD lead procedures,2.2095,2.2,3.5
+280,Yes,No,05,MED,"Acute myocardial infarction, discharged alive w MCC",1.9404,5.8,7.3
+281,Yes,No,05,MED,"Acute myocardial infarction, discharged alive w CC",1.2213,3.9,4.8
+282,Yes,No,05,MED,"Acute myocardial infarction, discharged alive w/o CC/MCC",0.8696,2.6,3.2
+283,No,No,05,MED,"Acute myocardial infarction, expired w MCC",1.6925,3.3,5.4
+284,No,No,05,MED,"Acute myocardial infarction, expired w CC",0.9111,2.2,3.2
+285,No,No,05,MED,"Acute myocardial infarction, expired w/o CC/MCC",0.6053,1.7,2.2
+286,No,No,05,MED,"Circulatory disorders except AMI, w card cath w MCC",1.9769,5.2,6.9
+287,No,No,05,MED,"Circulatory disorders except AMI, w card cath w/o MCC",1.0252,2.4,3.1
+288,Yes,No,05,MED,Acute & subacute endocarditis w MCC,3.0839,9.2,11.8
+289,Yes,No,05,MED,Acute & subacute endocarditis w CC,1.9588,7.0,8.7
+290,Yes,No,05,MED,Acute & subacute endocarditis w/o CC/MCC,1.4465,5.1,6.5
+291,Yes,No,05,MED,Heart failure & shock w MCC,1.4601,5.0,6.5
+292,Yes,No,05,MED,Heart failure & shock w CC,1.0069,4.1,5.0
+293,Yes,No,05,MED,Heart failure & shock w/o CC/MCC,0.7220,3.1,3.7
+294,No,No,05,MED,Deep vein thrombophlebitis w CC/MCC,0.9595,4.6,5.5
+295,No,No,05,MED,Deep vein thrombophlebitis w/o CC/MCC,0.6408,3.7,4.3
+296,No,No,05,MED,"Cardiac arrest, unexplained w MCC",1.1947,2.0,3.1
+297,No,No,05,MED,"Cardiac arrest, unexplained w CC",0.6476,1.4,1.8
+298,No,No,05,MED,"Cardiac arrest, unexplained w/o CC/MCC",0.4447,1.1,1.3
+299,Yes,No,05,MED,Peripheral vascular disorders w MCC,1.4370,5.0,6.7
+300,Yes,No,05,MED,Peripheral vascular disorders w CC,0.9286,4.1,5.0
+301,Yes,No,05,MED,Peripheral vascular disorders w/o CC/MCC,0.6606,3.0,3.7
+302,No,No,05,MED,Atherosclerosis w MCC,1.0294,3.2,4.4
+303,No,No,05,MED,Atherosclerosis w/o MCC,0.5668,2.0,2.5
+304,No,No,05,MED,Hypertension w MCC,1.0865,3.9,5.2
+305,No,No,05,MED,Hypertension w/o MCC,0.5918,2.3,2.9
+306,No,No,05,MED,Cardiac congenital & valvular disorders w MCC,1.5703,4.4,6.3
+307,No,No,05,MED,Cardiac congenital & valvular disorders w/o MCC,0.7502,2.7,3.5
+308,No,No,05,MED,Cardiac arrhythmia & conduction disorders w MCC,1.2992,4.1,5.5
+309,No,No,05,MED,Cardiac arrhythmia & conduction disorders w CC,0.8336,3.1,3.9
+310,No,No,05,MED,Cardiac arrhythmia & conduction disorders w/o CC/MCC,0.5843,2.3,2.8
+311,No,No,05,MED,Angina pectoris,0.4972,1.9,2.3
+312,No,No,05,MED,Syncope & collapse,0.7097,2.5,3.1
+313,No,No,05,MED,Chest pain,0.5314,1.7,2.1
+314,Yes,No,05,MED,Other circulatory system diagnoses w MCC,1.7552,5.0,7.0
+315,Yes,No,05,MED,Other circulatory system diagnoses w CC,0.9936,3.5,4.6
+316,Yes,No,05,MED,Other circulatory system diagnoses w/o CC/MCC,0.6528,2.4,3.0
+326,Yes,No,06,SURG,"Stomach, esophageal & duodenal proc w MCC",5.7896,13.2,17.1
+327,Yes,No,06,SURG,"Stomach, esophageal & duodenal proc w CC",2.8363,7.8,10.0
+328,Yes,No,06,SURG,"Stomach, esophageal & duodenal proc w/o CC/MCC",1.4530,3.2,4.4
+329,Yes,No,06,SURG,Major small & large bowel procedures w MCC,5.1666,12.8,16.0
+330,Yes,No,06,SURG,Major small & large bowel procedures w CC,2.5589,8.3,9.7
+331,Yes,No,06,SURG,Major small & large bowel procedures w/o CC/MCC,1.6224,5.2,5.9
+332,Yes,No,06,SURG,Rectal resection w MCC,4.5243,12.0,14.4
+333,Yes,No,06,SURG,Rectal resection w CC,2.4452,7.7,8.8
+334,Yes,No,06,SURG,Rectal resection w/o CC/MCC,1.6221,4.7,5.5
+335,Yes,No,06,SURG,Peritoneal adhesiolysis w MCC,4.0868,11.6,14.1
+336,Yes,No,06,SURG,Peritoneal adhesiolysis w CC,2.2369,7.5,9.1
+337,Yes,No,06,SURG,Peritoneal adhesiolysis w/o CC/MCC,1.4517,4.4,5.6
+338,No,No,06,SURG,Appendectomy w complicated principal diag w MCC,3.1760,8.8,10.7
+339,No,No,06,SURG,Appendectomy w complicated principal diag w CC,1.8564,6.0,7.0
+340,No,No,06,SURG,Appendectomy w complicated principal diag w/o CC/MCC,1.2259,3.5,4.2
+341,No,No,06,SURG,Appendectomy w/o complicated principal diag w MCC,2.1598,5.3,7.1
+342,No,No,06,SURG,Appendectomy w/o complicated principal diag w CC,1.3098,3.2,4.1
+343,No,No,06,SURG,Appendectomy w/o complicated principal diag w/o CC/MCC,0.9042,1.8,2.2
+344,No,No,06,SURG,Minor small & large bowel procedures w MCC,3.0672,9.2,11.7
+345,No,No,06,SURG,Minor small & large bowel procedures w CC,1.6346,6.1,7.2
+346,No,No,06,SURG,Minor small & large bowel procedures w/o CC/MCC,1.1881,4.4,4.9
+347,No,No,06,SURG,Anal & stomal procedures w MCC,2.2047,6.5,8.8
+348,No,No,06,SURG,Anal & stomal procedures w CC,1.2883,4.4,5.7
+349,No,No,06,SURG,Anal & stomal procedures w/o CC/MCC,0.7679,2.4,3.1
+350,No,No,06,SURG,Inguinal & femoral hernia procedures w MCC,2.2608,5.8,8.0
+351,No,No,06,SURG,Inguinal & femoral hernia procedures w CC,1.2597,3.4,4.5
+352,No,No,06,SURG,Inguinal & femoral hernia procedures w/o CC/MCC,0.8117,2.0,2.5
+353,No,No,06,SURG,Hernia procedures except inguinal & femoral w MCC,2.4859,6.4,8.4
+354,No,No,06,SURG,Hernia procedures except inguinal & femoral w CC,1.4020,4.0,5.1
+355,No,No,06,SURG,Hernia procedures except inguinal & femoral w/o CC/MCC,0.9648,2.4,2.9
+356,Yes,No,06,SURG,Other digestive system O.R. procedures w MCC,3.8569,9.5,12.9
+357,Yes,No,06,SURG,Other digestive system O.R. procedures w CC,2.1709,6.2,8.1
+358,Yes,No,06,SURG,Other digestive system O.R. procedures w/o CC/MCC,1.3474,3.3,4.5
+368,No,No,06,MED,Major esophageal disorders w MCC,1.6289,5.1,6.6
+369,No,No,06,MED,Major esophageal disorders w CC,1.0715,3.8,4.8
+370,No,No,06,MED,Major esophageal disorders w/o CC/MCC,0.7819,2.8,3.4
+371,Yes,No,06,MED,Major gastrointestinal disorders & peritoneal infections w MCC,1.9136,6.7,8.7
+372,Yes,No,06,MED,Major gastrointestinal disorders & peritoneal infections w CC,1.3072,5.6,6.8
+373,Yes,No,06,MED,Major gastrointestinal disorders & peritoneal infections w/o CC/MCC,0.8684,4.2,4.9
+374,Yes,No,06,MED,Digestive malignancy w MCC,1.9075,6.3,8.6
+375,Yes,No,06,MED,Digestive malignancy w CC,1.2543,4.5,6.0
+376,Yes,No,06,MED,Digestive malignancy w/o CC/MCC,0.8820,3.2,4.2
+377,Yes,No,06,MED,G.I. hemorrhage w MCC,1.6073,4.9,6.4
+378,Yes,No,06,MED,G.I. hemorrhage w CC,1.0043,3.7,4.4
+379,Yes,No,06,MED,G.I. hemorrhage w/o CC/MCC,0.7565,2.9,3.4
+380,Yes,No,06,MED,Complicated peptic ulcer w MCC,1.8006,5.6,7.3
+381,Yes,No,06,MED,Complicated peptic ulcer w CC,1.1137,4.2,5.2
+382,Yes,No,06,MED,Complicated peptic ulcer w/o CC/MCC,0.8218,3.1,3.7
+383,No,No,06,MED,Uncomplicated peptic ulcer w MCC,1.1744,4.4,5.5
+384,No,No,06,MED,Uncomplicated peptic ulcer w/o MCC,0.7838,3.1,3.8
+385,No,No,06,MED,Inflammatory bowel disease w MCC,1.8568,6.5,8.8
+386,No,No,06,MED,Inflammatory bowel disease w CC,1.0616,4.5,5.7
+387,No,No,06,MED,Inflammatory bowel disease w/o CC/MCC,0.7786,3.5,4.3
+388,Yes,No,06,MED,G.I. obstruction w MCC,1.5408,5.4,7.3
+389,Yes,No,06,MED,G.I. obstruction w CC,0.9265,4.0,5.0
+390,Yes,No,06,MED,G.I. obstruction w/o CC/MCC,0.6351,3.0,3.5
+391,No,No,06,MED,"Esophagitis, gastroent & misc digest disorders w MCC",1.0856,3.9,5.2
+392,No,No,06,MED,"Esophagitis, gastroent & misc digest disorders w/o MCC",0.6703,2.8,3.5
+393,No,No,06,MED,Other digestive system diagnoses w MCC,1.5409,4.9,6.9
+394,No,No,06,MED,Other digestive system diagnoses w CC,0.9519,3.8,4.8
+395,No,No,06,MED,Other digestive system diagnoses w/o CC/MCC,0.6765,2.6,3.3
+405,Yes,No,07,SURG,"Pancreas, liver & shunt procedures w MCC",5.6405,12.4,17.0
+406,Yes,No,07,SURG,"Pancreas, liver & shunt procedures w CC",2.7858,7.0,9.1
+407,Yes,No,07,SURG,"Pancreas, liver & shunt procedures w/o CC/MCC",1.8388,4.2,5.5
+408,No,No,07,SURG,Biliary tract proc except only cholecyst w or w/o c.d.e. w MCC,4.2585,12.2,15.1
+409,No,No,07,SURG,Biliary tract proc except only cholecyst w or w/o c.d.e. w CC,2.5649,8.3,9.8
+410,No,No,07,SURG,Biliary tract proc except only cholecyst w or w/o c.d.e. w/o CC/MCC,1.6467,5.5,6.5
+411,No,No,07,SURG,Cholecystectomy w c.d.e. w MCC,3.7496,10.4,12.4
+412,No,No,07,SURG,Cholecystectomy w c.d.e. w CC,2.3641,7.5,8.6
+413,No,No,07,SURG,Cholecystectomy w c.d.e. w/o CC/MCC,1.6877,5.0,5.9
+414,Yes,No,07,SURG,Cholecystectomy except by laparoscope w/o c.d.e. w MCC,3.5699,9.7,11.7
+415,Yes,No,07,SURG,Cholecystectomy except by laparoscope w/o c.d.e. w CC,2.0338,6.5,7.6
+416,Yes,No,07,SURG,Cholecystectomy except by laparoscope w/o c.d.e. w/o CC/MCC,1.3289,4.1,4.8
+417,No,No,07,SURG,Laparoscopic cholecystectomy w/o c.d.e. w MCC,2.4765,6.5,8.4
+418,No,No,07,SURG,Laparoscopic cholecystectomy w/o c.d.e. w CC,1.6507,4.5,5.6
+419,No,No,07,SURG,Laparoscopic cholecystectomy w/o c.d.e. w/o CC/MCC,1.1264,2.5,3.2
+420,No,No,07,SURG,Hepatobiliary diagnostic procedures w MCC,4.1087,9.9,13.8
+421,No,No,07,SURG,Hepatobiliary diagnostic procedures w CC,1.8959,5.6,7.7
+422,No,No,07,SURG,Hepatobiliary diagnostic procedures w/o CC/MCC,1.2284,3.2,4.3
+423,No,No,07,SURG,Other hepatobiliary or pancreas O.R. procedures w MCC,4.5812,11.9,16.0
+424,No,No,07,SURG,Other hepatobiliary or pancreas O.R. procedures w CC,2.5188,7.9,10.4
+425,No,No,07,SURG,Other hepatobiliary or pancreas O.R. procedures w/o CC/MCC,1.3752,4.0,5.4
+432,No,No,07,MED,Cirrhosis & alcoholic hepatitis w MCC,1.6790,5.2,7.0
+433,No,No,07,MED,Cirrhosis & alcoholic hepatitis w CC,0.9394,3.8,4.9
+434,No,No,07,MED,Cirrhosis & alcoholic hepatitis w/o CC/MCC,0.6550,2.9,3.7
+435,No,No,07,MED,Malignancy of hepatobiliary system or pancreas w MCC,1.7205,5.7,7.6
+436,No,No,07,MED,Malignancy of hepatobiliary system or pancreas w CC,1.1921,4.5,5.8
+437,No,No,07,MED,Malignancy of hepatobiliary system or pancreas w/o CC/MCC,0.9531,3.2,4.2
+438,No,No,07,MED,Disorders of pancreas except malignancy w MCC,1.7013,5.5,7.5
+439,No,No,07,MED,Disorders of pancreas except malignancy w CC,1.0241,4.2,5.3
+440,No,No,07,MED,Disorders of pancreas except malignancy w/o CC/MCC,0.6977,3.2,3.8
+441,Yes,No,07,MED,"Disorders of liver except malig,cirr,alc hepa w MCC",1.6639,5.1,7.0
+442,Yes,No,07,MED,"Disorders of liver except malig,cirr,alc hepa w CC",0.9830,3.9,5.1
+443,Yes,No,07,MED,"Disorders of liver except malig,cirr,alc hepa w/o CC/MCC",0.6982,3.0,3.8
+444,No,No,07,MED,Disorders of the biliary tract w MCC,1.5583,5.0,6.6
+445,No,No,07,MED,Disorders of the biliary tract w CC,1.0389,3.8,4.7
+446,No,No,07,MED,Disorders of the biliary tract w/o CC/MCC,0.7231,2.6,3.3
+453,No,No,08,SURG,Combined anterior/posterior spinal fusion w MCC,9.8253,12.0,15.6
+454,No,No,08,SURG,Combined anterior/posterior spinal fusion w CC,6.9914,6.5,8.0
+455,No,No,08,SURG,Combined anterior/posterior spinal fusion w/o CC/MCC,5.1476,3.7,4.4
+456,No,No,08,SURG,Spinal fus exc cerv w spinal curv/malig/infec or 9+ fus w MCC,8.4910,11.6,14.7
+457,No,No,08,SURG,Spinal fus exc cerv w spinal curv/malig/infec or 9+ fus w CC,5.6459,6.2,7.5
+458,No,No,08,SURG,Spinal fus exc cerv w spinal curv/malig/infec or 9+ fus w/o CC/MCC,4.6762,4.0,4.5
+459,Yes,No,08,SURG,Spinal fusion except cervical w MCC,5.9587,7.6,9.5
+460,Yes,No,08,SURG,Spinal fusion except cervical w/o MCC,3.5607,3.6,4.2
+461,No,No,08,SURG,Bilateral or multiple major joint procs of lower extremity w MCC,4.5419,6.8,8.4
+462,No,No,08,SURG,Bilateral or multiple major joint procs of lower extremity w/o MCC,3.1438,3.9,4.2
+463,Yes,No,08,SURG,"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w MCC",4.6947,12.0,16.6
+464,Yes,No,08,SURG,"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w CC",2.6167,7.7,10.2
+465,Yes,No,08,SURG,"Wnd debrid & skn grft exc hand, for musculo-conn tiss dis w/o CC/MCC",1.4966,4.4,5.8
+466,Yes,No,08,SURG,Revision of hip or knee replacement w MCC,4.5431,7.4,9.2
+467,Yes,No,08,SURG,Revision of hip or knee replacement w CC,3.0630,4.8,5.5
+468,Yes,No,08,SURG,Revision of hip or knee replacement w/o CC/MCC,2.4500,3.6,3.9
+469,Yes,No,08,SURG,Major joint replacement or reattachment of lower extremity w MCC,3.2901,6.9,8.2
+470,Yes,No,08,SURG,Major joint replacement or reattachment of lower extremity w/o MCC,2.0077,3.6,3.9
+471,No,No,08,SURG,Cervical spinal fusion w MCC,4.4122,7.0,9.8
+472,No,No,08,SURG,Cervical spinal fusion w CC,2.6084,2.8,4.1
+473,No,No,08,SURG,Cervical spinal fusion w/o CC/MCC,1.9140,1.6,2.0
+474,Yes,No,08,SURG,Amputation for musculoskeletal sys & conn tissue dis w MCC,3.4491,9.6,12.6
+475,Yes,No,08,SURG,Amputation for musculoskeletal sys & conn tissue dis w CC,1.9787,6.5,8.4
+476,Yes,No,08,SURG,Amputation for musculoskeletal sys & conn tissue dis w/o CC/MCC,1.0999,3.7,4.8
+477,Yes,Yes,08,SURG,Biopsies of musculoskeletal system & connective tissue w MCC,3.2781,8.9,11.9
+478,Yes,Yes,08,SURG,Biopsies of musculoskeletal system & connective tissue w CC,2.1226,4.6,6.6
+479,Yes,Yes,08,SURG,Biopsies of musculoskeletal system & connective tissue w/o CC/MCC,1.4742,1.9,2.8
+480,Yes,Yes,08,SURG,Hip & femur procedures except major joint w MCC,2.8998,7.8,9.3
+481,Yes,Yes,08,SURG,Hip & femur procedures except major joint w CC,1.8175,5.4,5.9
+482,Yes,Yes,08,SURG,Hip & femur procedures except major joint w/o CC/MCC,1.4949,4.5,4.8
+483,Yes,No,08,SURG,Major joint & limb reattachment proc of upper extremity w CC/MCC,2.2508,3.4,4.2
+484,Yes,No,08,SURG,Major joint & limb reattachment proc of upper extremity w/o CC/MCC,1.7443,2.1,2.4
+485,No,No,08,SURG,Knee procedures w pdx of infection w MCC,3.2959,9.8,12.1
+486,No,No,08,SURG,Knee procedures w pdx of infection w CC,2.1592,6.7,8.0
+487,No,No,08,SURG,Knee procedures w pdx of infection w/o CC/MCC,1.5538,4.9,5.7
+488,Yes,No,08,SURG,Knee procedures w/o pdx of infection w CC/MCC,1.6805,4.1,5.2
+489,Yes,No,08,SURG,Knee procedures w/o pdx of infection w/o CC/MCC,1.1601,2.6,3.0
+490,No,No,08,SURG,Back & neck proc exc spinal fusion w CC/MCC or disc device/neurostim,1.7202,3.0,4.3
+491,No,No,08,SURG,Back & neck proc exc spinal fusion w/o CC/MCC,0.9383,1.8,2.2
+492,Yes,Yes,08,SURG,"Lower extrem & humer proc except hip,foot,femur w MCC",2.7639,6.8,8.5
+493,Yes,Yes,08,SURG,"Lower extrem & humer proc except hip,foot,femur w CC",1.7620,4.3,5.3
+494,Yes,Yes,08,SURG,"Lower extrem & humer proc except hip,foot,femur w/o CC/MCC",1.2353,2.8,3.4
+495,Yes,No,08,SURG,Local excision & removal int fix devices exc hip & femur w MCC,3.1741,8.1,10.9
+496,Yes,No,08,SURG,Local excision & removal int fix devices exc hip & femur w CC,1.7722,4.6,6.0
+497,Yes,No,08,SURG,Local excision & removal int fix devices exc hip & femur w/o CC/MCC,1.1249,2.3,3.0
+498,No,No,08,SURG,Local excision & removal int fix devices of hip & femur w CC/MCC,2.0238,5.5,7.9
+499,No,No,08,SURG,Local excision & removal int fix devices of hip & femur w/o CC/MCC,0.9090,2.3,3.0
+500,Yes,Yes,08,SURG,Soft tissue procedures w MCC,2.8415,7.8,10.8
+501,Yes,Yes,08,SURG,Soft tissue procedures w CC,1.4700,4.5,6.0
+502,Yes,Yes,08,SURG,Soft tissue procedures w/o CC/MCC,0.9573,2.3,2.9
+503,No,No,08,SURG,Foot procedures w MCC,2.3047,7.2,9.4
+504,No,No,08,SURG,Foot procedures w CC,1.4696,5.1,6.4
+505,No,No,08,SURG,Foot procedures w/o CC/MCC,0.9860,2.6,3.4
+506,No,No,08,SURG,Major thumb or joint procedures,1.0237,2.5,3.4
+507,No,No,08,SURG,Major shoulder or elbow joint procedures w CC/MCC,1.7166,3.7,5.1
+508,No,No,08,SURG,Major shoulder or elbow joint procedures w/o CC/MCC,1.1143,1.7,2.0
+509,No,No,08,SURG,Arthroscopy,1.1718,2.0,3.1
+510,Yes,No,08,SURG,"Shoulder,elbow or forearm proc,exc major joint proc w MCC",1.9947,4.9,6.4
+511,Yes,No,08,SURG,"Shoulder,elbow or forearm proc,exc major joint proc w CC",1.3392,3.2,4.0
+512,Yes,No,08,SURG,"Shoulder,elbow or forearm proc,exc major joint proc w/o CC/MCC",0.9509,1.8,2.2
+513,No,No,08,SURG,"Hand or wrist proc, except major thumb or joint proc w CC/MCC",1.2932,3.6,5.1
+514,No,No,08,SURG,"Hand or wrist proc, except major thumb or joint proc w/o CC/MCC",0.8060,2.1,2.8
+515,Yes,Yes,08,SURG,Other musculoskelet sys & conn tiss O.R. proc w MCC,3.0669,7.9,10.5
+516,Yes,Yes,08,SURG,Other musculoskelet sys & conn tiss O.R. proc w CC,1.8083,4.5,6.0
+517,Yes,Yes,08,SURG,Other musculoskelet sys & conn tiss O.R. proc w/o CC/MCC,1.3293,2.1,3.0
+533,Yes,No,08,MED,Fractures of femur w MCC,1.4243,4.8,6.7
+534,Yes,No,08,MED,Fractures of femur w/o MCC,0.7339,3.3,4.0
+535,Yes,No,08,MED,Fractures of hip & pelvis w MCC,1.3409,4.8,6.2
+536,Yes,No,08,MED,Fractures of hip & pelvis w/o MCC,0.6963,3.3,3.9
+537,No,No,08,MED,"Sprains, strains, & dislocations of hip, pelvis & thigh w CC/MCC",0.8924,3.6,4.5
+538,No,No,08,MED,"Sprains, strains, & dislocations of hip, pelvis & thigh w/o CC/MCC",0.5808,2.7,3.2
+539,Yes,No,08,MED,Osteomyelitis w MCC,2.0287,7.5,9.8
+540,Yes,No,08,MED,Osteomyelitis w CC,1.3481,5.7,7.1
+541,Yes,No,08,MED,Osteomyelitis w/o CC/MCC,0.9265,4.2,5.3
+542,Yes,No,08,MED,Pathological fractures & musculoskelet & conn tiss malig w MCC,1.9045,6.7,8.8
+543,Yes,No,08,MED,Pathological fractures & musculoskelet & conn tiss malig w CC,1.1302,4.8,5.9
+544,Yes,No,08,MED,Pathological fractures & musculoskelet & conn tiss malig w/o CC/MCC,0.7698,3.7,4.4
+545,Yes,No,08,MED,Connective tissue disorders w MCC,2.3499,6.4,9.1
+546,Yes,No,08,MED,Connective tissue disorders w CC,1.0969,4.4,5.5
+547,Yes,No,08,MED,Connective tissue disorders w/o CC/MCC,0.7231,3.1,3.8
+548,No,No,08,MED,Septic arthritis w MCC,1.8769,6.7,8.9
+549,No,No,08,MED,Septic arthritis w CC,1.1618,5.1,6.4
+550,No,No,08,MED,Septic arthritis w/o CC/MCC,0.8073,3.7,4.5
+551,Yes,No,08,MED,Medical back problems w MCC,1.5323,5.4,7.1
+552,Yes,No,08,MED,Medical back problems w/o MCC,0.7657,3.4,4.1
+553,No,No,08,MED,Bone diseases & arthropathies w MCC,1.1068,4.7,6.0
+554,No,No,08,MED,Bone diseases & arthropathies w/o MCC,0.6352,3.0,3.7
+555,No,No,08,MED,Signs & symptoms of musculoskeletal system & conn tissue w MCC,1.0074,3.6,4.8
+556,No,No,08,MED,Signs & symptoms of musculoskeletal system & conn tissue w/o MCC,0.5767,2.5,3.1
+557,Yes,No,08,MED,"Tendonitis, myositis & bursitis w MCC",1.4295,5.2,6.6
+558,Yes,No,08,MED,"Tendonitis, myositis & bursitis w/o MCC",0.8036,3.5,4.3
+559,Yes,No,08,MED,"Aftercare, musculoskeletal system & connective tissue w MCC",1.7054,5.3,7.5
+560,Yes,No,08,MED,"Aftercare, musculoskeletal system & connective tissue w CC",0.9555,3.6,4.7
+561,Yes,No,08,MED,"Aftercare, musculoskeletal system & connective tissue w/o CC/MCC",0.5805,2.1,2.8
+562,Yes,No,08,MED,"Fx, sprn, strn & disl except femur, hip, pelvis & thigh w MCC",1.3961,4.9,6.4
+563,Yes,No,08,MED,"Fx, sprn, strn & disl except femur, hip, pelvis & thigh w/o MCC",0.6783,3.1,3.7
+564,No,No,08,MED,Other musculoskeletal sys & connective tissue diagnoses w MCC,1.4111,5.2,7.0
+565,No,No,08,MED,Other musculoskeletal sys & connective tissue diagnoses w CC,0.8882,3.9,5.0
+566,No,No,08,MED,Other musculoskeletal sys & connective tissue diagnoses w/o CC/MCC,0.6694,3.0,3.7
+573,Yes,No,09,SURG,Skin graft &/or debrid for skn ulcer or cellulitis w MCC,3.1932,9.6,13.2
+574,Yes,No,09,SURG,Skin graft &/or debrid for skn ulcer or cellulitis w CC,1.9517,7.2,9.4
+575,Yes,No,09,SURG,Skin graft &/or debrid for skn ulcer or cellulitis w/o CC/MCC,1.1216,4.7,5.8
+576,No,No,09,SURG,Skin graft &/or debrid exc for skin ulcer or cellulitis w MCC,3.4384,8.4,12.9
+577,No,No,09,SURG,Skin graft &/or debrid exc for skin ulcer or cellulitis w CC,1.5775,4.2,6.1
+578,No,No,09,SURG,Skin graft &/or debrid exc for skin ulcer or cellulitis w/o CC/MCC,0.9782,2.4,3.3
+579,Yes,No,09,SURG,"Other skin, subcut tiss & breast proc w MCC",2.7946,7.8,10.7
+580,Yes,No,09,SURG,"Other skin, subcut tiss & breast proc w CC",1.4110,3.7,5.5
+581,Yes,No,09,SURG,"Other skin, subcut tiss & breast proc w/o CC/MCC",0.8595,1.9,2.6
+582,No,No,09,SURG,Mastectomy for malignancy w CC/MCC,0.9649,2.1,2.8
+583,No,No,09,SURG,Mastectomy for malignancy w/o CC/MCC,0.7480,1.6,1.8
+584,No,No,09,SURG,"Breast biopsy, local excision & other breast procedures w CC/MCC",1.4329,4.0,6.0
+585,No,No,09,SURG,"Breast biopsy, local excision & other breast procedures w/o CC/MCC",0.8036,1.7,2.2
+592,Yes,No,09,MED,Skin ulcers w MCC,1.7515,6.6,8.9
+593,Yes,No,09,MED,Skin ulcers w CC,1.1080,5.2,6.5
+594,Yes,No,09,MED,Skin ulcers w/o CC/MCC,0.7910,4.1,5.1
+595,No,No,09,MED,Major skin disorders w MCC,1.8206,6.2,8.3
+596,No,No,09,MED,Major skin disorders w/o MCC,0.8225,3.8,4.7
+597,No,No,09,MED,Malignant breast disorders w MCC,1.6061,6.0,8.2
+598,No,No,09,MED,Malignant breast disorders w CC,1.0808,4.3,5.7
+599,No,No,09,MED,Malignant breast disorders w/o CC/MCC,0.7310,2.7,3.7
+600,No,No,09,MED,Non-malignant breast disorders w CC/MCC,0.9485,4.1,5.1
+601,No,No,09,MED,Non-malignant breast disorders w/o CC/MCC,0.6586,3.1,3.9
+602,Yes,No,09,MED,Cellulitis w MCC,1.4033,5.5,7.0
+603,Yes,No,09,MED,Cellulitis w/o MCC,0.8027,3.9,4.7
+604,No,No,09,MED,"Trauma to the skin, subcut tiss & breast w MCC",1.1915,4.3,5.7
+605,No,No,09,MED,"Trauma to the skin, subcut tiss & breast w/o MCC",0.6769,2.8,3.5
+606,No,No,09,MED,Minor skin disorders w MCC,1.2458,4.4,6.3
+607,No,No,09,MED,Minor skin disorders w/o MCC,0.6462,2.9,3.8
+614,No,No,10,SURG,Adrenal & pituitary procedures w CC/MCC,2.4984,5.1,7.0
+615,No,No,10,SURG,Adrenal & pituitary procedures w/o CC/MCC,1.3722,2.7,3.2
+616,Yes,No,10,SURG,"Amputat of lower limb for endocrine,nutrit,& metabol dis w MCC",4.7068,13.3,17.1
+617,Yes,No,10,SURG,"Amputat of lower limb for endocrine,nutrit,& metabol dis w CC",2.1033,7.0,8.8
+618,Yes,No,10,SURG,"Amputat of lower limb for endocrine,nutrit,& metabol dis w/o CC/MCC",1.3333,5.1,6.4
+619,No,No,10,SURG,O.R. procedures for obesity w MCC,3.3049,5.2,8.2
+620,No,No,10,SURG,O.R. procedures for obesity w CC,1.8641,2.9,3.7
+621,No,No,10,SURG,O.R. procedures for obesity w/o CC/MCC,1.4191,1.9,2.2
+622,Yes,No,10,SURG,"Skin grafts & wound debrid for endoc, nutrit & metab dis w MCC",3.1728,9.4,13.2
+623,Yes,No,10,SURG,"Skin grafts & wound debrid for endoc, nutrit & metab dis w CC",1.8878,6.7,8.6
+624,Yes,No,10,SURG,"Skin grafts & wound debrid for endoc, nutrit & metab dis w/o CC/MCC",1.0946,4.8,6.0
+625,No,No,10,SURG,"Thyroid, parathyroid & thyroglossal procedures w MCC",2.1244,4.7,7.1
+626,No,No,10,SURG,"Thyroid, parathyroid & thyroglossal procedures w CC",1.1332,2.1,3.1
+627,No,No,10,SURG,"Thyroid, parathyroid & thyroglossal procedures w/o CC/MCC",0.7344,1.3,1.5
+628,Yes,No,10,SURG,"Other endocrine, nutrit & metab O.R. proc w MCC",3.2670,7.5,11.1
+629,Yes,No,10,SURG,"Other endocrine, nutrit & metab O.R. proc w CC",2.2873,6.8,8.7
+630,Yes,No,10,SURG,"Other endocrine, nutrit & metab O.R. proc w/o CC/MCC",1.5075,4.0,5.5
+637,Yes,No,10,MED,Diabetes w MCC,1.3596,4.5,6.1
+638,Yes,No,10,MED,Diabetes w CC,0.8164,3.4,4.3
+639,Yes,No,10,MED,Diabetes w/o CC/MCC,0.5598,2.5,3.0
+640,Yes,No,10,MED,Nutritional & misc metabolic disorders w MCC,1.1138,3.9,5.4
+641,Yes,No,10,MED,Nutritional & misc metabolic disorders w/o MCC,0.6820,3.1,3.8
+642,No,No,10,MED,Inborn errors of metabolism,1.0168,3.7,5.2
+643,Yes,No,10,MED,Endocrine disorders w MCC,1.6464,5.8,7.6
+644,Yes,No,10,MED,Endocrine disorders w CC,1.0460,4.4,5.5
+645,Yes,No,10,MED,Endocrine disorders w/o CC/MCC,0.7188,3.1,3.9
+652,No,No,11,SURG,Kidney transplant,2.9556,6.6,7.7
+653,Yes,No,11,SURG,Major bladder procedures w MCC,5.8152,13.6,16.9
+654,Yes,No,11,SURG,Major bladder procedures w CC,2.9415,8.7,9.8
+655,Yes,No,11,SURG,Major bladder procedures w/o CC/MCC,2.0247,5.8,6.5
+656,No,No,11,SURG,Kidney & ureter procedures for neoplasm w MCC,3.2782,8.0,10.1
+657,No,No,11,SURG,Kidney & ureter procedures for neoplasm w CC,1.8626,5.0,6.0
+658,No,No,11,SURG,Kidney & ureter procedures for neoplasm w/o CC/MCC,1.3765,3.3,3.7
+659,Yes,No,11,SURG,Kidney & ureter procedures for non-neoplasm w MCC,3.3351,8.0,11.2
+660,Yes,No,11,SURG,Kidney & ureter procedures for non-neoplasm w CC,1.8919,4.8,6.5
+661,Yes,No,11,SURG,Kidney & ureter procedures for non-neoplasm w/o CC/MCC,1.2563,2.6,3.3
+662,No,No,11,SURG,Minor bladder procedures w MCC,2.7108,7.4,10.3
+663,No,No,11,SURG,Minor bladder procedures w CC,1.4429,3.6,5.3
+664,No,No,11,SURG,Minor bladder procedures w/o CC/MCC,0.9922,1.6,2.1
+665,No,No,11,SURG,Prostatectomy w MCC,2.5582,8.2,11.0
+666,No,No,11,SURG,Prostatectomy w CC,1.5536,4.3,6.3
+667,No,No,11,SURG,Prostatectomy w/o CC/MCC,0.8236,2.1,2.9
+668,No,No,11,SURG,Transurethral procedures w MCC,2.2389,6.2,8.5
+669,No,No,11,SURG,Transurethral procedures w CC,1.2031,3.1,4.4
+670,No,No,11,SURG,Transurethral procedures w/o CC/MCC,0.7683,1.9,2.5
+671,No,No,11,SURG,Urethral procedures w CC/MCC,1.4223,4.1,6.0
+672,No,No,11,SURG,Urethral procedures w/o CC/MCC,0.7944,1.9,2.5
+673,No,No,11,SURG,Other kidney & urinary tract procedures w MCC,2.7704,5.8,9.8
+674,No,No,11,SURG,Other kidney & urinary tract procedures w CC,2.1587,4.6,7.2
+675,No,No,11,SURG,Other kidney & urinary tract procedures w/o CC/MCC,1.3091,1.5,2.1
+682,Yes,No,11,MED,Renal failure w MCC,1.6413,5.2,7.2
+683,Yes,No,11,MED,Renal failure w CC,1.1304,4.5,5.6
+684,Yes,No,11,MED,Renal failure w/o CC/MCC,0.7305,3.2,3.9
+685,No,No,11,MED,Admit for renal dialysis,0.8578,2.5,3.5
+686,No,No,11,MED,Kidney & urinary tract neoplasms w MCC,1.6234,5.6,7.6
+687,No,No,11,MED,Kidney & urinary tract neoplasms w CC,1.0748,4.1,5.3
+688,No,No,11,MED,Kidney & urinary tract neoplasms w/o CC/MCC,0.6822,2.5,3.2
+689,Yes,No,11,MED,Kidney & urinary tract infections w MCC,1.2301,4.9,6.2
+690,Yes,No,11,MED,Kidney & urinary tract infections w/o MCC,0.7581,3.5,4.2
+691,No,No,11,MED,Urinary stones w esw lithotripsy w CC/MCC,1.4534,2.9,4.0
+692,No,No,11,MED,Urinary stones w esw lithotripsy w/o CC/MCC,1.1563,1.9,2.4
+693,No,No,11,MED,Urinary stones w/o esw lithotripsy w MCC,1.1939,3.6,4.8
+694,No,No,11,MED,Urinary stones w/o esw lithotripsy w/o MCC,0.6565,2.0,2.6
+695,No,No,11,MED,Kidney & urinary tract signs & symptoms w MCC,1.1711,4.2,5.5
+696,No,No,11,MED,Kidney & urinary tract signs & symptoms w/o MCC,0.6322,2.6,3.3
+697,No,No,11,MED,Urethral stricture,0.6931,2.4,3.1
+698,Yes,No,11,MED,Other kidney & urinary tract diagnoses w MCC,1.4718,5.0,6.6
+699,Yes,No,11,MED,Other kidney & urinary tract diagnoses w CC,0.9725,3.7,4.8
+700,Yes,No,11,MED,Other kidney & urinary tract diagnoses w/o CC/MCC,0.6828,2.8,3.5
+707,No,No,12,SURG,Major male pelvic procedures w CC/MCC,1.6199,3.4,4.4
+708,No,No,12,SURG,Major male pelvic procedures w/o CC/MCC,1.1778,1.8,2.1
+709,No,No,12,SURG,Penis procedures w CC/MCC,1.8864,3.8,6.6
+710,No,No,12,SURG,Penis procedures w/o CC/MCC,1.2521,1.4,1.8
+711,No,No,12,SURG,Testes procedures w CC/MCC,2.0238,5.5,8.1
+712,No,No,12,SURG,Testes procedures w/o CC/MCC,0.8064,2.2,3.0
+713,No,No,12,SURG,Transurethral prostatectomy w CC/MCC,1.1183,2.9,4.2
+714,No,No,12,SURG,Transurethral prostatectomy w/o CC/MCC,0.6325,1.7,1.9
+715,No,No,12,SURG,Other male reproductive system O.R. proc for malignancy w CC/MCC,1.7072,3.9,6.2
+716,No,No,12,SURG,Other male reproductive system O.R. proc for malignancy w/o CC/MCC,0.9636,1.2,1.4
+717,No,No,12,SURG,Other male reproductive system O.R. proc exc malignancy w CC/MCC,1.8087,5.1,7.2
+718,No,No,12,SURG,Other male reproductive system O.R. proc exc malignancy w/o CC/MCC,0.7809,2.2,2.8
+722,No,No,12,MED,"Malignancy, male reproductive system w MCC",1.5686,5.7,7.6
+723,No,No,12,MED,"Malignancy, male reproductive system w CC",0.9922,4.0,5.3
+724,No,No,12,MED,"Malignancy, male reproductive system w/o CC/MCC",0.5971,2.4,3.1
+725,No,No,12,MED,Benign prostatic hypertrophy w MCC,1.0492,4.2,5.5
+726,No,No,12,MED,Benign prostatic hypertrophy w/o MCC,0.6696,2.7,3.5
+727,No,No,12,MED,Inflammation of the male reproductive system w MCC,1.2897,5.1,6.4
+728,No,No,12,MED,Inflammation of the male reproductive system w/o MCC,0.6944,3.3,4.0
+729,No,No,12,MED,Other male reproductive system diagnoses w CC/MCC,1.0995,4.0,5.6
+730,No,No,12,MED,Other male reproductive system diagnoses w/o CC/MCC,0.5968,2.4,3.1
+734,No,No,13,SURG,"Pelvic evisceration, rad hysterectomy & rad vulvectomy w CC/MCC",2.3472,6.0,8.0
+735,No,No,13,SURG,"Pelvic evisceration, rad hysterectomy & rad vulvectomy w/o CC/MCC",1.1273,2.9,3.4
+736,No,No,13,SURG,Uterine & adnexa proc for ovarian or adnexal malignancy w MCC,4.1783,11.2,13.8
+737,No,No,13,SURG,Uterine & adnexa proc for ovarian or adnexal malignancy w CC,1.9568,6.0,7.2
+738,No,No,13,SURG,Uterine & adnexa proc for ovarian or adnexal malignancy w/o CC/MCC,1.1572,3.5,3.9
+739,No,No,13,SURG,"Uterine,adnexa proc for non-ovarian/adnexal malig w MCC",3.0048,7.8,10.2
+740,No,No,13,SURG,"Uterine,adnexa proc for non-ovarian/adnexal malig w CC",1.4641,4.3,5.2
+741,No,No,13,SURG,"Uterine,adnexa proc for non-ovarian/adnexal malig w/o CC/MCC",0.9983,2.7,3.0
+742,No,No,13,SURG,Uterine & adnexa proc for non-malignancy w CC/MCC,1.3429,3.5,4.5
+743,No,No,13,SURG,Uterine & adnexa proc for non-malignancy w/o CC/MCC,0.8437,2.0,2.3
+744,No,No,13,SURG,"D&C, conization, laparoscopy & tubal interruption w CC/MCC",1.3923,4.1,5.8
+745,No,No,13,SURG,"D&C, conization, laparoscopy & tubal interruption w/o CC/MCC",0.7448,2.1,2.6
+746,No,No,13,SURG,"Vagina, cervix & vulva procedures w CC/MCC",1.2643,3.0,4.2
+747,No,No,13,SURG,"Vagina, cervix & vulva procedures w/o CC/MCC",0.8370,1.6,1.9
+748,No,No,13,SURG,Female reproductive system reconstructive procedures,0.8162,1.5,1.7
+749,No,No,13,SURG,Other female reproductive system O.R. procedures w CC/MCC,2.4834,6.7,9.3
+750,No,No,13,SURG,Other female reproductive system O.R. procedures w/o CC/MCC,0.9614,2.5,3.1
+754,No,No,13,MED,"Malignancy, female reproductive system w MCC",1.7546,6.2,8.3
+755,No,No,13,MED,"Malignancy, female reproductive system w CC",1.0780,4.3,5.7
+756,No,No,13,MED,"Malignancy, female reproductive system w/o CC/MCC",0.6337,2.5,3.1
+757,No,No,13,MED,"Infections, female reproductive system w MCC",1.5803,6.5,8.1
+758,No,No,13,MED,"Infections, female reproductive system w CC",1.0640,4.9,6.1
+759,No,No,13,MED,"Infections, female reproductive system w/o CC/MCC",0.7664,3.6,4.5
+760,No,No,13,MED,Menstrual & other female reproductive system disorders w CC/MCC,0.7934,3.0,4.0
+761,No,No,13,MED,Menstrual & other female reproductive system disorders w/o CC/MCC,0.5024,1.9,2.4
+765,No,No,14,SURG,Cesarean section w CC/MCC,1.0536,4.0,5.0
+766,No,No,14,SURG,Cesarean section w/o CC/MCC,0.7427,3.0,3.2
+767,No,No,14,SURG,Vaginal delivery w sterilization &/or D&C,0.9523,2.6,3.3
+768,No,No,14,SURG,Vaginal delivery w O.R. proc except steril &/or D&C,1.7319,0.0,0.0
+769,No,No,14,SURG,Postpartum & post abortion diagnoses w O.R. procedure,1.2740,3.2,4.6
+770,No,No,14,SURG,"Abortion w D&C, aspiration curettage or hysterotomy",0.6627,1.6,2.3
+774,No,No,14,MED,Vaginal delivery w complicating diagnoses,0.6511,2.6,3.2
+775,No,No,14,MED,Vaginal delivery w/o complicating diagnoses,0.4800,2.0,2.2
+776,No,No,14,MED,Postpartum & post abortion diagnoses w/o O.R. procedure,0.6215,2.5,3.3
+777,No,No,14,MED,Ectopic pregnancy,0.7679,1.8,2.2
+778,No,No,14,MED,Threatened abortion,0.4388,1.9,3.0
+779,No,No,14,MED,Abortion w/o D&C,0.4921,1.6,2.1
+780,No,No,14,MED,False labor,0.1978,1.3,1.5
+781,No,No,14,MED,Other antepartum diagnoses w medical complications,0.6170,2.6,3.7
+782,No,No,14,MED,Other antepartum diagnoses w/o medical complications,0.3944,1.7,2.5
+789,No,No,15,MED,"Neonates, died or transferred to another acute care facility",1.4226,0.0,0.0
+790,No,No,15,MED,"Extreme immaturity or respiratory distress syndrome, neonate",4.6911,0.0,0.0
+791,No,No,15,MED,Prematurity w major problems,3.2039,0.0,0.0
+792,No,No,15,MED,Prematurity w/o major problems,1.9332,0.0,0.0
+793,No,No,15,MED,Full term neonate w major problems,3.2911,0.0,0.0
+794,No,No,15,MED,Neonate w other significant problems,1.1648,0.0,0.0
+795,No,No,15,MED,Normal newborn,0.1577,0.0,0.0
+799,No,No,16,SURG,Splenectomy w MCC,4.7614,10.8,14.1
+800,No,No,16,SURG,Splenectomy w CC,2.5624,6.2,7.8
+801,No,No,16,SURG,Splenectomy w/o CC/MCC,1.6400,3.8,4.9
+802,No,No,16,SURG,Other O.R. proc of the blood & blood forming organs w MCC,3.4208,9.0,12.3
+803,No,No,16,SURG,Other O.R. proc of the blood & blood forming organs w CC,1.7652,4.7,6.7
+804,No,No,16,SURG,Other O.R. proc of the blood & blood forming organs w/o CC/MCC,1.0526,2.5,3.4
+808,No,No,16,MED,Major hematol/immun diag exc sickle cell crisis & coagul w MCC,1.9886,6.3,8.2
+809,No,No,16,MED,Major hematol/immun diag exc sickle cell crisis & coagul w CC,1.1744,4.2,5.3
+810,No,No,16,MED,Major hematol/immun diag exc sickle cell crisis & coagul w/o CC/MCC,0.8980,3.2,4.0
+811,No,No,16,MED,Red blood cell disorders w MCC,1.2753,4.0,5.7
+812,No,No,16,MED,Red blood cell disorders w/o MCC,0.7630,2.8,3.7
+813,No,No,16,MED,Coagulation disorders,1.3532,3.7,5.1
+814,No,No,16,MED,Reticuloendothelial & immunity disorders w MCC,1.4920,5.0,6.7
+815,No,No,16,MED,Reticuloendothelial & immunity disorders w CC,0.9959,3.8,5.0
+816,No,No,16,MED,Reticuloendothelial & immunity disorders w/o CC/MCC,0.6994,2.8,3.5
+820,No,No,17,SURG,Lymphoma & leukemia w major O.R. procedure w MCC,5.6313,13.2,17.7
+821,No,No,17,SURG,Lymphoma & leukemia w major O.R. procedure w CC,2.2514,5.5,7.9
+822,No,No,17,SURG,Lymphoma & leukemia w major O.R. procedure w/o CC/MCC,1.2343,2.6,3.5
+823,No,No,17,SURG,Lymphoma & non-acute leukemia w other O.R. proc w MCC,4.0946,12.0,15.4
+824,No,No,17,SURG,Lymphoma & non-acute leukemia w other O.R. proc w CC,2.1797,6.6,8.7
+825,No,No,17,SURG,Lymphoma & non-acute leukemia w other O.R. proc w/o CC/MCC,1.2073,3.0,4.3
+826,No,No,17,SURG,Myeloprolif disord or poorly diff neopl w maj O.R. proc w MCC,4.6021,11.1,15.1
+827,No,No,17,SURG,Myeloprolif disord or poorly diff neopl w maj O.R. proc w CC,2.2712,5.9,7.9
+828,No,No,17,SURG,Myeloprolif disord or poorly diff neopl w maj O.R. proc w/o CC/MCC,1.2999,3.0,3.8
+829,No,No,17,SURG,Myeloprolif disord or poorly diff neopl w other O.R. proc w CC/MCC,2.8929,7.0,10.6
+830,No,No,17,SURG,Myeloprolif disord or poorly diff neopl w other O.R. proc w/o CC/MCC,1.0798,2.5,3.7
+834,No,No,17,MED,Acute leukemia w/o major O.R. procedure w MCC,4.5869,9.5,15.5
+835,No,No,17,MED,Acute leukemia w/o major O.R. procedure w CC,2.5814,6.2,10.4
+836,No,No,17,MED,Acute leukemia w/o major O.R. procedure w/o CC/MCC,1.2117,3.4,5.2
+837,No,No,17,MED,Chemo w acute leukemia as sdx or w high dose chemo agent w MCC,6.3774,17.6,23.1
+838,No,No,17,MED,Chemo w acute leukemia as sdx w CC or high dose chemo agent,2.9436,7.9,12.2
+839,No,No,17,MED,Chemo w acute leukemia as sdx w/o CC/MCC,1.4154,5.0,6.4
+840,Yes,No,17,MED,Lymphoma & non-acute leukemia w MCC,2.5965,7.6,10.4
+841,Yes,No,17,MED,Lymphoma & non-acute leukemia w CC,1.5530,5.2,6.9
+842,Yes,No,17,MED,Lymphoma & non-acute leukemia w/o CC/MCC,1.0258,3.4,4.5
+843,No,No,17,MED,Other myeloprolif dis or poorly diff neopl diag w MCC,1.8230,6.2,8.5
+844,No,No,17,MED,Other myeloprolif dis or poorly diff neopl diag w CC,1.2036,4.5,6.1
+845,No,No,17,MED,Other myeloprolif dis or poorly diff neopl diag w/o CC/MCC,0.8230,3.3,4.4
+846,No,No,17,MED,Chemotherapy w/o acute leukemia as secondary diagnosis w MCC,2.1272,5.8,8.4
+847,No,No,17,MED,Chemotherapy w/o acute leukemia as secondary diagnosis w CC,0.9421,2.7,3.4
+848,No,No,17,MED,Chemotherapy w/o acute leukemia as secondary diagnosis w/o CC/MCC,0.7970,2.5,3.1
+849,No,No,17,MED,Radiotherapy,1.2094,4.4,6.0
+853,Yes,No,18,SURG,Infectious & parasitic diseases w O.R. procedure w MCC,5.4328,12.7,16.7
+854,Yes,No,18,SURG,Infectious & parasitic diseases w O.R. procedure w CC,2.9172,9.1,11.1
+855,Yes,No,18,SURG,Infectious & parasitic diseases w O.R. procedure w/o CC/MCC,1.8140,5.6,7.1
+856,Yes,No,18,SURG,Postoperative or post-traumatic infections w O.R. proc w MCC,4.7522,11.5,15.4
+857,Yes,No,18,SURG,Postoperative or post-traumatic infections w O.R. proc w CC,2.0522,6.6,8.5
+858,Yes,No,18,SURG,Postoperative or post-traumatic infections w O.R. proc w/o CC/MCC,1.3595,4.5,5.7
+862,Yes,No,18,MED,Postoperative & post-traumatic infections w MCC,1.9142,6.1,8.2
+863,Yes,No,18,MED,Postoperative & post-traumatic infections w/o MCC,0.9605,4.2,5.2
+864,No,No,18,MED,Fever ,0.8257,3.2,4.1
+865,No,No,18,MED,Viral illness w MCC,1.5049,4.7,6.7
+866,No,No,18,MED,Viral illness w/o MCC,0.6708,2.8,3.5
+867,Yes,No,18,MED,Other infectious & parasitic diseases diagnoses w MCC,2.3441,7.0,9.6
+868,Yes,No,18,MED,Other infectious & parasitic diseases diagnoses w CC,1.0786,4.5,5.8
+869,Yes,No,18,MED,Other infectious & parasitic diseases diagnoses w/o CC/MCC,0.7650,3.5,4.3
+870,Yes,No,18,MED,Septicemia or severe sepsis w MV 96+ hours,5.7258,12.9,15.5
+871,Yes,No,18,MED,Septicemia or severe sepsis w/o MV 96+ hours w MCC,1.8222,5.5,7.5
+872,Yes,No,18,MED,Septicemia or severe sepsis w/o MV 96+ hours w/o MCC,1.1209,4.7,5.7
+876,No,No,19,SURG,O.R. procedure w principal diagnoses of mental illness,2.4834,7.8,12.1
+880,No,No,19,MED,Acute adjustment reaction & psychosocial dysfunction,0.5897,2.4,3.2
+881,No,No,19,MED,Depressive neuroses,0.5828,3.1,4.2
+882,No,No,19,MED,Neuroses except depressive,0.6115,3.1,4.4
+883,No,No,19,MED,Disorders of personality & impulse control,1.0234,4.4,7.4
+884,Yes,No,19,MED,Organic disturbances & mental retardation,0.8992,4.1,5.5
+885,No,No,19,MED,Psychoses,0.8477,5.5,7.6
+886,No,No,19,MED,Behavioral & developmental disorders,0.7549,4.0,6.0
+887,No,No,19,MED,Other mental disorder diagnoses,0.7303,3.0,4.6
+894,No,No,20,MED,"Alcohol/drug abuse or dependence, left AMA",0.3878,2.1,2.9
+895,No,No,20,MED,Alcohol/drug abuse or dependence w rehabilitation therapy,0.8902,8.1,10.5
+896,Yes,No,20,MED,Alcohol/drug abuse or dependence w/o rehabilitation therapy w MCC,1.3827,4.8,6.6
+897,Yes,No,20,MED,Alcohol/drug abuse or dependence w/o rehabilitation therapy w/o MCC,0.6198,3.3,4.1
+901,No,No,21,SURG,Wound debridements for injuries w MCC,3.9888,10.0,15.3
+902,No,No,21,SURG,Wound debridements for injuries w CC,1.7006,5.5,7.8
+903,No,No,21,SURG,Wound debridements for injuries w/o CC/MCC,1.0009,3.4,4.6
+904,No,No,21,SURG,Skin grafts for injuries w CC/MCC,2.9275,7.1,11.4
+905,No,No,21,SURG,Skin grafts for injuries w/o CC/MCC,1.1151,3.4,4.7
+906,No,No,21,SURG,Hand procedures for injuries,1.0086,2.1,3.2
+907,Yes,No,21,SURG,Other O.R. procedures for injuries w MCC,3.6804,8.0,11.6
+908,Yes,No,21,SURG,Other O.R. procedures for injuries w CC,1.9094,4.9,6.8
+909,Yes,No,21,SURG,Other O.R. procedures for injuries w/o CC/MCC,1.1342,2.7,3.6
+913,No,No,21,MED,Traumatic injury w MCC,1.2304,4.2,5.7
+914,No,No,21,MED,Traumatic injury w/o MCC,0.6650,2.7,3.4
+915,No,No,21,MED,Allergic reactions w MCC,1.2298,3.3,4.7
+916,No,No,21,MED,Allergic reactions w/o MCC,0.4423,1.7,2.1
+917,Yes,No,21,MED,Poisoning & toxic effects of drugs w MCC,1.4155,3.7,5.2
+918,Yes,No,21,MED,Poisoning & toxic effects of drugs w/o MCC,0.5812,2.1,2.7
+919,No,No,21,MED,Complications of treatment w MCC,1.5223,4.5,6.4
+920,No,No,21,MED,Complications of treatment w CC,0.9234,3.3,4.4
+921,No,No,21,MED,Complications of treatment w/o CC/MCC,0.6109,2.3,3.0
+922,No,No,21,MED,"Other injury, poisoning & toxic effect diag w MCC",1.3572,4.1,6.0
+923,No,No,21,MED,"Other injury, poisoning & toxic effect diag w/o MCC",0.6157,2.4,3.2
+927,No,No,22,SURG,Extensive burns or full thickness burns w MV 96+ hrs w skin graft,13.8501,23.4,31.1
+928,No,No,22,SURG,Full thickness burn w skin graft or inhal inj w CC/MCC,5.0156,11.6,15.9
+929,No,No,22,SURG,Full thickness burn w skin graft or inhal inj w/o CC/MCC,2.1444,5.3,7.7
+933,No,No,22,MED,Extensive burns or full thickness burns w MV 96+ hrs w/o skin graft,2.1165,2.3,4.4
+934,No,No,22,MED,Full thickness burn w/o skin grft or inhal inj,1.2921,4.4,6.1
+935,No,No,22,MED,Non-extensive burns,1.2213,3.6,5.4
+939,No,No,23,SURG,O.R. proc w diagnoses of other contact w health services w MCC,2.6570,6.7,10.1
+940,No,No,23,SURG,O.R. proc w diagnoses of other contact w health services w CC,1.6352,3.6,5.4
+941,No,No,23,SURG,O.R. proc w diagnoses of other contact w health services w/o CC/MCC,1.0731,2.1,2.7
+945,Yes,No,23,MED,Rehabilitation w CC/MCC,1.3022,8.6,10.5
+946,Yes,No,23,MED,Rehabilitation w/o CC/MCC,1.0995,6.9,7.9
+947,Yes,No,23,MED,Signs & symptoms w MCC,1.0575,3.8,5.0
+948,Yes,No,23,MED,Signs & symptoms w/o MCC,0.6500,2.8,3.5
+949,No,No,23,MED,Aftercare w CC/MCC,0.8050,2.6,4.1
+950,No,No,23,MED,Aftercare w/o CC/MCC,0.5614,2.5,3.5
+951,No,No,23,MED,Other factors influencing health status,0.7616,2.2,4.8
+955,No,No,24,SURG,Craniotomy for multiple significant trauma,5.0985,8.5,12.3
+956,Yes,No,24,SURG,"Limb reattachment, hip & femur proc for multiple significant trauma",3.5417,7.6,9.3
+957,No,No,24,SURG,Other O.R. procedures for multiple significant trauma w MCC,5.9904,10.1,14.7
+958,No,No,24,SURG,Other O.R. procedures for multiple significant trauma w CC,3.5803,7.9,10.3
+959,No,No,24,SURG,Other O.R. procedures for multiple significant trauma w/o CC/MCC,2.3913,4.9,6.4
+963,No,No,24,MED,Other multiple significant trauma w MCC,2.8885,6.6,9.6
+964,No,No,24,MED,Other multiple significant trauma w CC,1.6114,4.9,6.2
+965,No,No,24,MED,Other multiple significant trauma w/o CC/MCC,0.9955,3.4,4.2
+969,No,No,25,SURG,HIV w extensive O.R. procedure w MCC,5.3826,12.9,18.9
+970,No,No,25,SURG,HIV w extensive O.R. procedure w/o MCC,2.5403,6.7,10.3
+974,No,No,25,MED,HIV w major related condition w MCC,2.5656,7.3,10.4
+975,No,No,25,MED,HIV w major related condition w CC,1.3612,5.3,7.0
+976,No,No,25,MED,HIV w major related condition w/o CC/MCC,0.8951,3.8,4.9
+977,No,No,25,MED,HIV w or w/o other related condition,1.0954,3.9,5.3
+981,Yes,No,,SURG,Extensive O.R. procedure unrelated to principal diagnosis w MCC,5.0238,11.8,15.2
+982,Yes,No,,SURG,Extensive O.R. procedure unrelated to principal diagnosis w CC,3.0783,7.6,9.7
+983,Yes,No,,SURG,Extensive O.R. procedure unrelated to principal diagnosis w/o CC/MCC,1.9948,3.9,5.4
+984,No,No,,SURG,Prostatic O.R. procedure unrelated to principal diagnosis w MCC,3.3177,11.8,14.6
+985,No,No,,SURG,Prostatic O.R. procedure unrelated to principal diagnosis w CC,2.2035,7.3,9.6
+986,No,No,,SURG,Prostatic O.R. procedure unrelated to principal diagnosis w/o CC/MCC,1.2775,3.5,5.3
+987,Yes,No,,SURG,Non-extensive O.R. proc unrelated to principal diagnosis w MCC,3.4406,9.8,13.0
+988,Yes,No,,SURG,Non-extensive O.R. proc unrelated to principal diagnosis w CC,1.8792,5.8,7.8
+989,Yes,No,,SURG,Non-extensive O.R. proc unrelated to principal diagnosis w/o CC/MCC,1.1009,2.9,4.1
+998,No,No,,**,Principal diagnosis invalid as discharge diagnosis,0.0000,0.0,0.0
+999,No,No,,**,Ungroupable,0.0000,0.0,0.0
+,,,,,,,,
+MS-DRGs 998 and 999 contain cases that could not be assigned to valid DRGs.,,,,,,,,
+"Note: If there is no value in either the geometric mean length of stay or the arithmetic mean length of stay columns, the volume of cases is insufficient to determine a meaningful computation of these statistics. ",,,,,,,,
